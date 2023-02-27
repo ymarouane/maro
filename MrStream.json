@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://gbwappplus.com/tilfazyassin",
-  "applicationId": "com.app.thestream",
-  "REST_API_KEY": "cda11Wf5q1IslCPGrKLgd9yicNnAeajFYEoXx4BMD0U6Jh3v9O",
+  "PANEL_URL": "https://marouaneai.com/yacinetest/app",
+  "applicationId": "app.yacine.tv.version3",
+  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "url for blocked countries",
-  "REST_API_KEY_REDIRECTION": "api for blocked countries",
+  "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetest/app",
+  "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "ma,uk",
+  "BLACK_LIST" : "fr,be",
 
   "status": "ok",
   "app": {
