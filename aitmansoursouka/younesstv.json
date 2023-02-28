@@ -1,7 +1,7 @@
 {
   "status": "ok",
 
-  "DATA_URL": "https://raw.githubusercontent.com/marouanejson/myprojet/main/dataapp/data.json",
+  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
 
   "BLACK_LIST" : "usa,ca,uk",
   
