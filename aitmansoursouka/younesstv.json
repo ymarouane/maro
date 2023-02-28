@@ -3,9 +3,8 @@
 
   "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
 
-  "BLACK_LIST" : "usa,ca,uk",
-  
-  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/marouanejson/myprojet/main/dataapp/data.json",
+  "BLACK_LIST" : "sa,fr",
+  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
 
   "app": {
     "status": 1,
@@ -27,9 +26,9 @@
 
   "ads": {
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "admob",
-    "backup_ads": "admob",
+    "ad_status": "off",
+    "ad_type": "none",
+    "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": 0,
     "admob_banner_unit_id": "ca-app-pub-3940256099942544\/6300978111",
@@ -57,9 +56,9 @@
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "mopub_banner_ad_unit_id": 0,
     "mopub_interstitial_ad_unit_id": 0,
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 20,
-    "native_ad_index": 4,
+    "interstitial_ad_interval": 1,
+    "native_ad_interval": 3,
+    "native_ad_index": 3,
     "date_time": "2022-11-24 13:44:35",
     "test_mode": 0
   }
