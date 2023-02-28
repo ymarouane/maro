@@ -2,7 +2,7 @@
     "status":"ok",
     
     "banner": {
-        "show": false,
+        "show": true,
         "image": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/120/yacinetvguide/bann.png",
         "external_url": "https://play.google.com/store/games"
     },
