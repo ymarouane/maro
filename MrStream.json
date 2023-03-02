@@ -1,17 +1,17 @@
 {
-  "PANEL_URL": "https://marouaneai.com/ytv/matchat/app",
+  "PANEL_URL": "https://marouaneai.com/yacinetest/app",
   "applicationId": "app.yacine.tv.version3",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetvapp/app",
+  "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetest/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "uk,us,in,ae,qa",
+  "BLACK_LIST" : "ae,qa",
 
   "status": "ok",
   "app": {
     "status": 1,
-    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.ea.gp.fifamobile"
+    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yacine.tv.version3"
   },
   "settings": {
     "id": 1,
