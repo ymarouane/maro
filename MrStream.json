@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://marouaneai.com/yacinetvapp/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/matchat/app",
   "applicationId": "app.yacine.tv.version3",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetvapp/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "fr,be",
+  "BLACK_LIST" : "uk,us,in,ae,qa",
 
   "status": "ok",
   "app": {
@@ -28,7 +28,7 @@
   "ads": {
     "id": 1,
     "ad_status": "on",
-    "ad_type": "admob",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": 0,
