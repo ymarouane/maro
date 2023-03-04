@@ -1,9 +1,9 @@
 {
   "status": "ok",
 
-  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
+  "DATA_URL": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/jdc.json",
 
-  "BLACK_LIST" : "sa,fr",
+  "BLACK_LIST" : "us,uk,ie,ae,in,qa,es",
   "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
 
   "app": {
@@ -26,8 +26,8 @@
 
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
+    "ad_status": "on",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": 0,
@@ -46,9 +46,9 @@
     "unity_game_id": 0,
     "unity_banner_placement_id": 0,
     "unity_interstitial_placement_id": 0,
-    "applovin_banner_ad_unit_id": 0,
-    "applovin_interstitial_ad_unit_id": 0,
-    "applovin_native_ad_manual_unit_id": 0,
+        "applovin_banner_ad_unit_id":"dff739d7f7bb5f8a",
+        "applovin_interstitial_ad_unit_id":"cdbeaafc85115913",
+        "applovin_native_ad_manual_unit_id":"532a60c94c066aae",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
     "ironsource_app_key": "85460dcd",
