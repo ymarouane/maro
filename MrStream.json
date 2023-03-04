@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://marouaneai.com/yacinetest/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/matchat/app",
   "applicationId": "app.yacine.tv.version3",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetest/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "ae,qa",
+  "BLACK_LIST" : "us,uk,in,es,ie,ae,qa",
 
   "status": "ok",
   "app": {
@@ -22,7 +22,7 @@
     "providers": "firebase",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https:\/\/codecanyon.net\/user\/solodroid\/portfolio",
+    "more_apps_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yacine.tv.version3",
     "youtube_api_key": 0
   },
   "ads": {
@@ -47,9 +47,9 @@
     "unity_game_id": 0,
     "unity_banner_placement_id": 0,
     "unity_interstitial_placement_id": 0,
-    "applovin_banner_ad_unit_id": 0,
-    "applovin_interstitial_ad_unit_id": 0,
-    "applovin_native_ad_manual_unit_id": 0,
+    "applovin_banner_ad_unit_id":"18ca7fa281fdc462",
+    "applovin_interstitial_ad_unit_id":"9b3b6de8eab742fa",
+    "applovin_native_ad_manual_unit_id":"cdfb778fe65d9fb4",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
     "ironsource_app_key": "aaaa",
@@ -57,9 +57,9 @@
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "mopub_banner_ad_unit_id": 0,
     "mopub_interstitial_ad_unit_id": 0,
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 20,
-    "native_ad_index": 4,
+    "interstitial_ad_interval": 1,
+    "native_ad_interval": 3,
+    "native_ad_index": 3,
     "date_time": "2022-11-24 13:44:35",
     "test_mode": 0
   }
