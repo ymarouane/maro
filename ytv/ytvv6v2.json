@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/yacinetest/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "us,uk,in,es,ie,ae,qa",
+  "BLACK_LIST" : "us,uk,in,ie,ae,qa",
 
   "status": "ok",
   "app": {
