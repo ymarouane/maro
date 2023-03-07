@@ -11,7 +11,7 @@
   "status": "ok",
   "app": {
     "status": 1,
-    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.app.yacine.tv.v6"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.app.yacine.tv.v6"
   },
   "settings": {
     "id": 1,
@@ -22,14 +22,14 @@
     "providers": "onesignal",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yacine.tv.version3",
+    "more_apps_url": "https://play.google.com/store/apps/details?id=com.app.yacine.tv.v6",
     "youtube_api_key": 0
   },
   "ads": {
     "id": 1,
     "ad_status": "on",
-        "ad_type":"applovin_max",
-        "backup_ads":"admob",
+        "ad_type":"ironsource",
+        "backup_ads":"applovin_max",
         "admob_publisher_id":"pub-1832731666295844",
         "admob_app_id":"ca-app-pub-1832731666295844~8430845129",
         "admob_banner_unit_id":"ca-app-pub-1832731666295844/5725806069",
@@ -52,7 +52,7 @@
         "applovin_native_ad_manual_unit_id":"2becf7fdc3c90a34",
         "applovin_banner_zone_id":0,
         "applovin_interstitial_zone_id":0,
-        "ironsource_app_key":"AAAAAA",
+        "ironsource_app_key":"18ff24c55",
         "ironsource_banner_placement_name":"DefaultBanner",
         "ironsource_interstitial_placement_name":"DefaultInterstitial",
         "mopub_banner_ad_unit_id":0,
