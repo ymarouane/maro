@@ -1,10 +1,10 @@
 {
   "status": "ok",
 
-  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
+  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/khawya2.json",
 
-  "BLACK_LIST" : "us,uk,ie,es,ae,in,qa",
-  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
+  "BLACK_LIST" : "ie,es,ae,in,qa",
+  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/khawya2.json",
 
   "app": {
     "status": 1,
