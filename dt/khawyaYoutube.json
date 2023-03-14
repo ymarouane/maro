@@ -1,0 +1,124 @@
+{
+    "status":"ok",
+    
+    "banner": {
+        "show": false,
+        "image": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/120/yacinetvguide/bann.png",
+        "external_url": "https://play.google.com/store/games"
+    },
+    
+    "categories":[
+        {
+            "cid":6,
+            "category_name":"الرياضية",
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
+        },
+        {
+            "cid":5,
+            "category_name":"الرياضيةHD ",
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
+        },
+        {
+            "cid":3,
+            "category_name":"الرياضيةSD ",
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
+        },        
+        {
+            "cid":2,
+            "category_name":"الاولى",
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
+        },
+        {
+            "cid":1,
+            "category_name":"المغربية",
+            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
+        }
+    ],
+    
+    "channels":[
+        {
+            "channel_id":7,
+            "category_id":6,
+            "channel_name":"المغربيةHD ",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"المغربية",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":6,
+            "category_id":6,
+            "channel_name":"المغربية",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"المغربية",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":5,
+            "category_id":5,
+            "channel_name":"المغربية",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"المغربية",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":2,
+            "category_id":2,
+            "channel_name":"الاولى",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"الاولى",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":9,
+            "category_id":2,
+            "channel_name":"HD الاولى",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"الاولى",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":8,
+            "category_id":2,
+            "channel_name":"Arriyadia HD ",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"الاولى",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":3,
+            "category_id":3,
+            "channel_name":"الرياضية",
+            "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
+            "channel_url":"",
+            "channel_description":"",
+            "channel_type":"Youtube",
+            "video_id":"oAJaj6bKYis",
+            "category_name":"الرياضية",
+            "user_agent":"default"
+        }
+    ]
+}
