@@ -1,7 +1,7 @@
 {
   "status": "ok",
 
-  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
+  "DATA_URL": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/jdc.json",
 
   "BLACK_LIST" : "us,uk,ie,es,ae,in,qa",
   "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
@@ -26,8 +26,8 @@
 
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
+    "ad_status": "on",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": 0,
