@@ -10,7 +10,7 @@
     "categories":[
         {
             "cid":6,
-            "category_name":"الرياضية",
+            "category_name":"You الرياضية",
             "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
         },
         {
@@ -22,17 +22,8 @@
             "cid":3,
             "category_name":"الرياضيةSD ",
             "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
-        },        
-        {
-            "cid":2,
-            "category_name":"الاولى",
-            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
-        },
-        {
-            "cid":1,
-            "category_name":"المغربية",
-            "category_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png"
-        }
+        }       
+    
     ],
     
     "channels":[
@@ -53,7 +44,7 @@
             "category_id":6,
             "channel_name":"المغربية",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
@@ -67,43 +58,43 @@
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
             "channel_description":"",
-            "channel_type":"YTV",
+            "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
             "category_name":"المغربيةtube",
             "user_agent":"default"
         },
         {
             "channel_id":2,
-            "category_id":2,
+            "category_id":4,
             "channel_name":"الاولى",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
             "category_name":"الاولىYoutube",
             "user_agent":"default"
         },
         {
             "channel_id":9,
-            "category_id":2,
+            "category_id":3,
             "channel_name":"HD الاولى",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
             "category_name":"الاولى",
             "user_agent":"default"
         },
         {
             "channel_id":8,
-            "category_id":2,
-            "channel_name":"Arriyadia HD ",
+            "category_id":6,
+            "channel_name":" HD ",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
             "category_name":"الاولى",
             "user_agent":"default"
@@ -115,7 +106,7 @@
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YouTube",
             "video_id":"oAJaj6bKYis",
             "category_name":"الرياضية",
             "user_agent":"default"
