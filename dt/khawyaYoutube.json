@@ -41,7 +41,7 @@
             "category_id":6,
             "channel_name":"المغربيةHD ",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"Youtube",
             "video_id":"oAJaj6bKYis",
@@ -55,7 +55,7 @@
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YOUTUBE",
             "video_id":"oAJaj6bKYis",
             "category_name":"المغربية",
             "user_agent":"default"
@@ -67,9 +67,9 @@
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
             "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
             "channel_description":"",
-            "channel_type":"Youtube",
+            "channel_type":"YTV",
             "video_id":"oAJaj6bKYis",
-            "category_name":"المغربية",
+            "category_name":"المغربيةtube",
             "user_agent":"default"
         },
         {
@@ -77,11 +77,11 @@
             "category_id":2,
             "channel_name":"الاولى",
             "channel_image":"https://raw.githubusercontent.com/marouanejson/myprojet/main/img/icontilfaz2.png",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"Youtube",
             "video_id":"oAJaj6bKYis",
-            "category_name":"الاولى",
+            "category_name":"الاولىYoutube",
             "user_agent":"default"
         },
         {
