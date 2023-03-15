@@ -27,11 +27,6 @@
             "cid":2,
             "category_name":"stream music",
             "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
-        },
-        {
-            "cid":1,
-            "category_name":"live music",
-            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
         }
     ],
     
@@ -87,9 +82,9 @@
         {
             "channel_id":9,
             "category_id":2,
-            "channel_name":"Cinematic Drone",
-            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_name":"Cinematic Drone AA",
+            "channel_image":"",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"YouTube",
             "video_id":"U6p_YuqYRJ8",
@@ -100,8 +95,8 @@
             "channel_id":8,
             "category_id":2,
             "channel_name":"TheFatRat - Xenogenesis ",
-            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_image":"",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"YouTube",
             "video_id":"3_-a9nVZYjk",
@@ -112,8 +107,8 @@
             "channel_id":3,
             "category_id":3,
             "channel_name":"Julius Dreisig & Zeus X Crona",
-            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+            "channel_image":"",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"YouTube",
             "video_id":"QglaLzo_aPk",
