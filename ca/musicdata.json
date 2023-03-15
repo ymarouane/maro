@@ -36,11 +36,11 @@
             "category_id":6,
             "channel_name":"live music ",
             "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png",
-            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_url":"",
             "channel_description":"",
             "channel_type":"YouTube",
             "video_id":"dhRzt3T0Dmk",
-            "category_name":" ",
+            "category_name":"music",
             "user_agent":"default"
         },
         {
