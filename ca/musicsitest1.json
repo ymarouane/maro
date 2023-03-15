@@ -1,10 +1,10 @@
 {
   "status": "ok",
 
-  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/khawya2.json",
+  "DATA_URL": "https://raw.githubusercontent.com/ymarouane/maro/main/ca/musicdata.json",
 
   "BLACK_LIST" : "ie,es,ae,in,qa",
-  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/khawya2.json",
+  "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/ca/musicdata.json",
 
   "app": {
     "status": 1,
