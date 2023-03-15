@@ -1,0 +1,124 @@
+{
+    "status":"ok",
+    
+    "banner": {
+        "show": false,
+        "image": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/120/yacinetvguide/bann.png",
+        "external_url": "https://play.google.com/store/games"
+    },
+    
+    "categories":[
+        {
+            "cid":6,
+            "category_name":"invisible music",
+            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
+        },
+        {
+            "cid":5,
+            "category_name":"music ",
+            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
+        },
+        {
+            "cid":3,
+            "category_name":"rock music ",
+            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
+        },        
+        {
+            "cid":2,
+            "category_name":"stream music",
+            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
+        },
+        {
+            "cid":1,
+            "category_name":"live music",
+            "category_image":"https://raw.githubusercontent.com/ymarouane/maro/main/ca/MUSIC%20SI%20ICON.png"
+        }
+    ],
+    
+    "channels":[
+        {
+            "channel_id":7,
+            "category_id":6,
+            "channel_name":"live music ",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"dhRzt3T0Dmk",
+            "category_name":" ",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":6,
+            "category_id":6,
+            "channel_name":"stream mmusic",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"EOLbOsMgwjY",
+            "category_name":" ",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":5,
+            "category_id":5,
+            "channel_name":"music si",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"AnMhdn0wJ4I",
+            "category_name":" ",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":2,
+            "category_id":2,
+            "channel_name":"pop",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"B7xai5u_tnk",
+            "category_name":" ",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":9,
+            "category_id":2,
+            "channel_name":"Cinematic Drone",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"U6p_YuqYRJ8",
+            "category_name":" ",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":8,
+            "category_id":2,
+            "channel_name":"TheFatRat - Xenogenesis ",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"3_-a9nVZYjk",
+            "category_name":"cheb",
+            "user_agent":"default"
+        },
+        {
+            "channel_id":3,
+            "category_id":3,
+            "channel_name":"Julius Dreisig & Zeus X Crona",
+            "channel_image":"https://raw.githubusercontent.com/ymarouane/maro/main/dt/yanis%20tv.jpg",
+            "channel_url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+            "channel_description":"",
+            "channel_type":"YouTube",
+            "video_id":"QglaLzo_aPk",
+            "category_name":"invisible",
+            "user_agent":"default"
+        }
+    ]
+}
