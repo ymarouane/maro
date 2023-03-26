@@ -33,7 +33,7 @@
       "ShowButtonVideos"   : false,
       "ShowButtonDownload" : false,
       
-      "blockedCountry"     :"us,ca,ru,es,fr,pr"
+      "blockedCountry"     :"us,ca,in,fr,uk"
       
   }
       
