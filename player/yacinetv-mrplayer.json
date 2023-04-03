@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"true",
+    "external_player"    :"false",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": 0,
@@ -29,7 +29,7 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
+    "ad_status": "on",
     "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
