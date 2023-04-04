@@ -7,29 +7,29 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "XXadmob",
-    "InterstitialNetwork"        : "XXadmob",
+    "BannerNetwork"              : "fan",
+    "InterstitialNetwork"        : "admob",
     
-    "InterstitialPlayerOpen"     : "XXadmob",
-    "InterstitialPlayerBack"     : "XXadmob",
+    "InterstitialPlayerOpen"     : "fan",
+    "InterstitialPlayerBack"     : "fan",
     
     
     "IntervalClick"              : 1,
-    "AdMob_ID"                   : "pub-3940256099942544",
-    "AdMob_Banner"               : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"       : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_ID"                   : "pub-1832731666295844",
+    "AdMob_Banner"               : "ca-app-pub-1832731666295844/6869829324",
+    "AdMob_InterstitialAd"       : "ca-app-pub-1832731666295844/4243665985",
    
-    "Facebook_Banner"            : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd"    : "692961278482629_692963491815741",
+    "Facebook_Banner"            : "568338922060324_569348695292680",
+    "Facebook_InterstitialAd"    : "568338922060324_569348745292675",
     
-    "Applovin_Banner"            : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd"    : "d5a67a7b679c9a38",
+    "Applovin_Banner"            : "xx",
+    "Applovin_InterstitialAd"    : "xx",
     
-    "Unity_GameID"               : "4076527",
+    "Unity_GameID"               : "xx",
     "Unity_Banner"               : "BannerAd",
     "Unity_InterstitialAd"       : "InterstitialAd",
     
-    "IronSourceKey"              : "1197d7c85"
+    "IronSourceKey"              : "xx"
     
     
   }
