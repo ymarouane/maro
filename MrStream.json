@@ -10,8 +10,8 @@
 
   "status": "ok",
   "app": {
-    "status": 1,
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacine.tv.version3"
+    "status": 0,
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yunes.yacine.tv"
   },
   "settings": {
     "id": 1,
@@ -27,9 +27,9 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "ironsource",
-    "backup_ads": "admob",
+    "ad_status": "off",
+    "ad_type": "none",
+    "backup_ads": "none",
     "admob_publisher_id": "pub-2742207963022064",
     "admob_app_id": "ca-app-pub-2742207963022064~6751554066",
     "admob_banner_unit_id": "ca-app-pub-2742207963022064/7608258594",
@@ -52,7 +52,7 @@
     "applovin_native_ad_manual_unit_id":"cdfb778fe65d9fb4",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
-    "ironsource_app_key": "18fa942ad",
+    "ironsource_app_key": "aa",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "mopub_banner_ad_unit_id": 0,
