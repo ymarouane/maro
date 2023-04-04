@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://mar1.online/mrTV/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/tvplayer",
   "applicationId": "app.yunes.yacine.tv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "usa,ca,uk",
+  "BLACK_LIST" : "us,uk,qa,in,ie",
 
   "status": "ok",
   "app": {
@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"false",
+    "external_player"    :"true",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": 0,
