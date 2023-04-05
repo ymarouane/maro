@@ -7,11 +7,11 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
+    "BannerNetwork"              : "facebook",
+    "InterstitialNetwork"        : "facebook",
     
-    "InterstitialPlayerOpen"     : "fan",
-    "InterstitialPlayerBack"     : "fan",
+    "InterstitialPlayerOpen"     : "admob",
+    "InterstitialPlayerBack"     : "admob",
     
     
     "IntervalClick"              : 1,
