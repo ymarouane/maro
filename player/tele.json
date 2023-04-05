@@ -1,9 +1,9 @@
 {
-  "PANEL_URL": "https://mar1.online/mrTV/app",
+  "PANEL_URL": "https://mar1.online/tvYoutube/app",
   "applicationId": "app.tele.latino.player",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
+  "PANEL_URL_REDIRECTION": "https://mar1.online/tvYoutube/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "BLACK_LIST" : "usa,ca,uk",
