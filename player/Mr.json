@@ -10,8 +10,8 @@
     "BannerNetwork"              : "facebook",
     "InterstitialNetwork"        : "facebook",
     
-    "InterstitialPlayerOpen"     : "admob",
-    "InterstitialPlayerBack"     : "admob",
+    "InterstitialPlayerOpen"     : "facebook",
+    "InterstitialPlayerBack"     : "facebook",
     
     
     "IntervalClick"              : 1,
