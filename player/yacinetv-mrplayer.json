@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://mar1.online/mrTV/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/playertvkhawya",
   "applicationId": "app.yacinetv.mrplayer",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "usa,ca,uk",
+  "BLACK_LIST" : "us,in,uk,es",
 
   "status": "ok",
   "app": {
