@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "fan",
+    "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "admob",
     
     "InterstitialPlayerOpen"     : "fan",
