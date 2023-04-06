@@ -7,8 +7,8 @@
 
     "AdsController": {
       
-    "BannerNetwork"              : "facebook",
-    "InterstitialNetwork"        : "facebook",
+    "BannerNetwork"              : "ironsource",
+    "InterstitialNetwork"        : "ironsource",
     
     "InterstitialPlayerOpen"     : "facebook",
     "InterstitialPlayerBack"     : "facebook",
@@ -29,7 +29,7 @@
     "Unity_Banner"               : "BannerAd",
     "Unity_InterstitialAd"       : "InterstitialAd",
     
-    "IronSourceKey"              : "xx"
+    "IronSourceKey"              : "197553045"
     
     
   }
