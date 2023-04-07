@@ -10,14 +10,14 @@
     "BannerNetwork"              : "ironsource",
     "InterstitialNetwork"        : "ironsource",
     
-    "InterstitialPlayerOpen"     : "facebook",
+    "InterstitialPlayerOpen"     : "admob",
     "InterstitialPlayerBack"     : "facebook",
     
     
     "IntervalClick"              : 1,
-    "AdMob_ID"                   : "pub-1832731666295844",
-    "AdMob_Banner"               : "ca-app-pub-1832731666295844/6869829324",
-    "AdMob_InterstitialAd"       : "ca-app-pub-1832731666295844/4243665985",
+    "AdMob_ID"                   : "pub-6782970622346694",
+    "AdMob_Banner"               : "ca-app-pub-6782970622346694/6635532205",
+    "AdMob_InterstitialAd"       : "ca-app-pub-6782970622346694/4009368863",
    
     "Facebook_Banner"            : "568338922060324_569348695292680",
     "Facebook_InterstitialAd"    : "568338922060324_569348745292675",
