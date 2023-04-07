@@ -8,10 +8,10 @@
     "AdsController": {
       
     "BannerNetwork"              : "ironsource",
-    "InterstitialNetwork"        : "admob",
+    "InterstitialNetwork"        : "ironsource",
     
-    "InterstitialPlayerOpen"     : "ironsource",
-    "InterstitialPlayerBack"     : "ironsource",
+    "InterstitialPlayerOpen"     : "admob",
+    "InterstitialPlayerBack"     : "admob",
     
     
     "IntervalClick"              : 1,
