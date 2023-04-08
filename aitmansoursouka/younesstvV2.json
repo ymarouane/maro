@@ -3,7 +3,7 @@
 
   "DATA_URL": "https://raw.githubusercontent.com/merrooapps/blamadkholasat/main/jdc.json",
 
-  "BLACK_LIST" : "us,uk,ie,ae,in,qa",
+  "BLACK_LIST" : "us,uk,ie,es,ae,in,qa",
   "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datamaghribtv.json",
 
   "app": {
