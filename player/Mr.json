@@ -10,8 +10,8 @@
     "BannerNetwork"              : "ironsource",
     "InterstitialNetwork"        : "ironsource",
     
-    "InterstitialPlayerOpen"     : "admob",
-    "InterstitialPlayerBack"     : "admob",
+    "InterstitialPlayerOpen"     : "ironsource",
+    "InterstitialPlayerBack"     : "ironsource",
     
     
     "IntervalClick"              : 1,
