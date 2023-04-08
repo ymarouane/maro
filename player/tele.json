@@ -1,9 +1,9 @@
 {
-  "PANEL_URL": "https://mar1.online/tvYoutube/app",
+  "PANEL_URL": "https://mar1.online/mrTV/app",
   "applicationId": "app.tele.latino.player",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://mar1.online/tvYoutube/app",
+  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "BLACK_LIST" : "usa,ca,uk",
@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"false",
+    "external_player"    :"ture",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "d999f38c-c0dd-40c3-a94f-1addfb169856",
@@ -29,8 +29,8 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
+    "ad_status": "on",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": 0,
@@ -49,9 +49,9 @@
     "unity_game_id": 0,
     "unity_banner_placement_id": 0,
     "unity_interstitial_placement_id": 0,
-    "applovin_banner_ad_unit_id": 0,
-    "applovin_interstitial_ad_unit_id": 0,
-    "applovin_native_ad_manual_unit_id": 0,
+    "applovin_banner_ad_unit_id": "b936959ae97347d5",
+    "applovin_interstitial_ad_unit_id": "21f6a9e95b7a6aba",
+    "applovin_native_ad_manual_unit_id": "6b8927d017c7fe30",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
     "ironsource_app_key": "aaaa",
