@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "us,uk,qa,in",
+  "BLACK_LIST" : "us,uk,qa,in,ae,es",
 
   "status": "ok",
   "app": {
