@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/playertvkhawya",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "us,uk,qa,in,ae,es",
+  "BLACK_LIST" : "us,uk,qa,in",
 
   "status": "ok",
   "app": {
