@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"ture",
+    "external_player"    :"false",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "d999f38c-c0dd-40c3-a94f-1addfb169856",
@@ -29,9 +29,9 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "applovin_max",
-    "backup_ads": "admob",
+    "ad_status": "off",
+    "ad_type": "none",
+    "backup_ads": "none",
     "admob_publisher_id": "pub-6782970622346694",
     "admob_app_id": "ca-app-pub-6782970622346694~7793303841",
     "admob_banner_unit_id": "ca-app-pub-6782970622346694/2834251513",
