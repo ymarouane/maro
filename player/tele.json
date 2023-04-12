@@ -1,9 +1,9 @@
 {
-  "PANEL_URL": "https://mar1.online/tvYoutube/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/playertvkhawya",
   "applicationId": "app.tele.latino.player",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://mar1.online/tvYoutube/app",
+  "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/playertvkhawya",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "BLACK_LIST" : "us,ca,uk",
@@ -29,9 +29,9 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
-    "backup_ads": "none",
+    "ad_status": "on",
+    "ad_type": "ironsource",
+    "backup_ads": "applovin_max",
     "admob_publisher_id": "pub-6782970622346694",
     "admob_app_id": "ca-app-pub-6782970622346694~7793303841",
     "admob_banner_unit_id": "ca-app-pub-6782970622346694/2834251513",
@@ -54,7 +54,7 @@
     "applovin_native_ad_manual_unit_id": "6b8927d017c7fe30",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
-    "ironsource_app_key": "aaaa",
+    "ironsource_app_key": "19880c16d",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "mopub_banner_ad_unit_id": 0,
