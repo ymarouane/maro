@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"true",
+    "external_player"    :"false",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "d999f38c-c0dd-40c3-a94f-1addfb169856",
