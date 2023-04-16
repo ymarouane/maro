@@ -6,10 +6,10 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "ironsource",
+    "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "ironsource",
     "NativeNetwork"              : "admob",
-    "BannerPlayer"               : "admob",
+    "BannerPlayer"               : "ironsource",
     
     "AdMob_ID"                : "pub-1832731666295844",
     "AdMob_Banner"            : "ca-app-pub-1832731666295844/3661237707",
@@ -30,7 +30,7 @@
   
   "AppConfig":{
       
-      "ShowButtonVideos"   : false,
+      "ShowButtonVideos"   : true,
       "ShowButtonDownload" : false,
       
       "blockedCountry"     :""
