@@ -6,15 +6,15 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
+    "BannerNetwork"              : "ironsource",
+    "InterstitialNetwork"        : "ironsource",
     "NativeNetwork"              : "admob",
     "BannerPlayer"               : "admob",
     
-    "AdMob_ID"                : "pub-3940256099942544xx",
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544xx/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544xx/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544xx/2247696110",
+    "AdMob_ID"                : "pub-1832731666295844",
+    "AdMob_Banner"            : "ca-app-pub-1832731666295844/3661237707",
+    "AdMob_InterstitialAd"    : "ca-app-pub-1832731666295844/2348156035",
+    "AdMob_Native"            : "ca-app-pub-1832731666295844/9624010823",
     
     
     "Applovin_Banner"         : "a5f235ba1320fb35XX",
@@ -25,7 +25,7 @@
     "Unity_Banner"           : "BannerAd",
     "Unity_InterstitialAd"   : "InterstitialAd",
 
-    "IronSourceKey"           : "1197d7c85XX"
+    "IronSourceKey"           : "19964a21d"
   },
   
   "AppConfig":{
