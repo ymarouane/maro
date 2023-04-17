@@ -6,11 +6,11 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "NativeNetwork"           : "admob",
+    "BannerNetwork"           : "applovin",
+    "InterstitialNetwork"     : "applovin",
+    "NativeNetwork"           : "applovin",
     
-    "IntervalClick"           : 3,
+    "IntervalClick"           : 2,
     
     "AdMob_ID"               : "pub-394025609994254xx4",
     "AdMob_Banner"           : "ca-app-pub-394025609994254xx4/6300978111",
@@ -21,9 +21,9 @@
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
     "Facebook_Native"         : "692961278482629_857100538735368",
     
-    "Applovin_Banner"        : "a5f235ba1320fb35xx",
-    "Applovin_InterstitialAd": "d5a67a7b679c9a38xx",
-    "Applovin_Native"        : "a5f235ba1320fb35xx",
+    "Applovin_Banner"        : "f146994e29315afd",
+    "Applovin_InterstitialAd": "df8e484e5d064592",
+    "Applovin_Native"        : "4e8d92aa3505533a",
 
     "Unity_GameID"           : "4076527",
     "Unity_Banner"           : "BannerAd",
