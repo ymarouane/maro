@@ -7,10 +7,10 @@
   "AdsController": {
       
     "BannerNetwork"           : "ironsource",
-    "InterstitialNetwork"     : "applovin",
+    "InterstitialNetwork"     : "ironsource",
     "NativeNetwork"           : "applovin",
     
-    "IntervalClick"           : 2,
+    "IntervalClick"           : 1,
     
     "AdMob_ID"               : "pub-394025609994254xx4",
     "AdMob_Banner"           : "ca-app-pub-394025609994254xx4/6300978111",
