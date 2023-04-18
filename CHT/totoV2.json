@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "ironsource",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
@@ -29,7 +29,7 @@
     "Unity_Banner"           : "BannerAd",
     "Unity_InterstitialAd"   : "InterstitialAd",
     
-    "IronSourceKey"          : "1197d7c85xx"
+    "IronSourceKey"          : "199d286e5"
   },
   
   "contact": [
