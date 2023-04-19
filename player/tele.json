@@ -29,7 +29,7 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "on",
+    "ad_status": "off",
     "ad_type": "none",
     "backup_ads": "none",
     "admob_publisher_id": "pub-6782970622346694",
