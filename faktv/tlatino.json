@@ -52,8 +52,6 @@
     ],
     "Sport": [
       {
-
-      {
         "title": "Sport HD 1",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "2.5",
@@ -113,7 +111,7 @@
     "category": [
       {
         "name": "Sport",
-        "preview": "https://i.ytimg.com/vi/JVW8c6KcNPk/maxresdefault.jpg"
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
       },
       {
         "name": "Entertainment",
@@ -127,39 +125,15 @@
     "Sport": [
       {
         "title": "Sport HD 1",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "rating": "3.5",
-        "ratingUS"   : "You can make us quik rating to unlock channel",
-        "openLink" : "",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+        "rating": "2.5",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       },
       {
         "title": "Sport HD 2",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "2.5",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Sport HD 3",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
-        "description": ""
-      },
-      {
-        "title": "Bein Sport MAX 1 HD",
-        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "4.0",
-        "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
-        "description": ""
-      },
-      {
-        "title": "Bein Sport MAX 2 HD",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "rating": "4.0",
         "ratingUS"   : "",
         "openLink" : "https://youtu.be/T31yQf24EOs",
