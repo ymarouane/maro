@@ -31,7 +31,7 @@
     "id": 1,
     "ad_status": "on",
     "ad_type": "ironsource",
-    "backup_ads": "admob",
+    "backup_ads": "applovin_max",
     "admob_publisher_id": "pub-3310092436760888",
     "admob_app_id": "ca-app-pub-3310092436760888~6454674580",
     "admob_banner_unit_id": "ca-app-pub-3310092436760888/7214395941",
