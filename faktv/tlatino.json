@@ -42,33 +42,17 @@
         "preview": "https://i.ytimg.com/vi/JVW8c6KcNPk/maxresdefault.jpg"
       },
       {
-        "name": "Movies",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/movie.png"
-      },
-      {
         "name": "Entertainment",
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
       },
       {
-        "name": "Education",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/education.png"
-      },
-      {
-        "name": "Family TV",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/family.png"
-      },
-      {
         "name": "Cartoon kids",
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
-      },
-      {
-        "name": "Wild World",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/wild.png"
       }
     ],
     "Sport": [
       {
-        "title": "Bein Sport HD 1",
+        "title": "Sport HD 1",
         "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "rating": "3.5",
         "ratingUS"   : "You can make us quik rating to unlock channel",
@@ -76,27 +60,27 @@
         "description": ""
       },
       {
-        "title": "Bein Sport HD 2",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "Sport HD 2",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "2.5",
         "ratingUS"   : "",
         "openLink" : "",
         "description": ""
       },
       {
-        "title": "Bein Sport HD 3",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "Sport HD 3",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       },
       {
         "title": "Bein Sport MAX 1 HD",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       },
       {
@@ -104,115 +88,47 @@
         "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ],
-    "Movies": [
-      {
-        "title": "Bein Movies HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Drama HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Series HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       }
     ],
     "Entertainment": [
       {
-        "title": "Bein Entertainment HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Entertainment HD 1",
+        "title": "Entertainment HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
         "description": ""
       },
       {
-        "title": "Bein Entertainment HD 1",
+        "title": "Entertainment HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
         "description": ""
       }
     ],
-    "Education": [
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
     ],
-    "Family TV": [
+    "Cartoon kids": [
       {
-        "title": "Bein Family HD 1",
+        "title": " Kids HD 1",
         "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
         "description": ""
       },
       {
-        "title": "Bein Family HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Family HD 1",
+        "title": "Kids HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
         "description": ""
       }
     ]
-
   },
 
   "blackList": {
@@ -223,61 +139,45 @@
         "preview": "https://i.ytimg.com/vi/JVW8c6KcNPk/maxresdefault.jpg"
       },
       {
-        "name": "Movies",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/movie.png"
-      },
-      {
         "name": "Entertainment",
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
       },
       {
-        "name": "Education",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/education.png"
-      },
-      {
-        "name": "Family TV",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/family.png"
-      },
-      {
         "name": "Cartoon kids",
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
-      },
-      {
-        "name": "Wild World",
-        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/wild.png"
       }
     ],
     "Sport": [
       {
-        "title": "Bein Sport HD 1",
+        "title": "Sport HD 1",
         "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "rating": "3.5",
-        "ratingUS"   : "",
+        "ratingUS"   : "You can make us quik rating to unlock channel",
         "openLink" : "",
         "description": ""
       },
       {
-        "title": "Bein Sport HD 2",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "Sport HD 2",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "2.5",
         "ratingUS"   : "",
         "openLink" : "",
         "description": ""
       },
       {
-        "title": "Bein Sport HD 3",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "Sport HD 3",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       },
       {
         "title": "Bein Sport MAX 1 HD",
-        "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       },
       {
@@ -285,117 +185,48 @@
         "preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
-    ],
-    "Movies": [
-      {
-        "title": "Bein Movies HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Drama HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Series HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
         "description": ""
       }
     ],
     "Entertainment": [
       {
-        "title": "Bein Entertainment HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Entertainment HD 1",
+        "title": "Entertainment HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
         "description": ""
       },
       {
-        "title": "Bein Entertainment HD 1",
+        "title": "Entertainment HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
         "description": ""
       }
     ],
-    "Education": [
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Education HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      }
     ],
-    "Family TV": [
+    "Cartoon kids": [
       {
-        "title": "Bein Family HD 1",
+        "title": " Kids HD 1",
         "preview": "https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
         "description": ""
       },
       {
-        "title": "Bein Family HD 1",
-        "preview": "https://assets.bein.com/mena/sites/3/2015/06/DRAMA_DIGITAL_Mono.png",
-        "rating": "5.0",
-        "ratingUS"   : "",
-        "openLink" : "",
-        "description": ""
-      },
-      {
-        "title": "Bein Family HD 1",
+        "title": "Kids HD 1",
         "preview": "https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
         "description": ""
       }
     ]
-
   }
-
 
  
 }
