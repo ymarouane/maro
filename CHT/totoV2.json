@@ -7,7 +7,7 @@
   "AdsController": {
       
     "BannerNetwork"           : "ironsource",
-    "InterstitialNetwork"     : "ironsource",
+    "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
     "IntervalClick"           : 1,
