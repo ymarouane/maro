@@ -4,12 +4,12 @@
     "redirectURL" : ""
   },
   "AdsController": {
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "ironsource",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "admob",
 
-    "IntervalClick"           : 2,
+    "IntervalClick"           : 1,
 
     "AdMob_ID"                : "pub-3940256099942544",
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
@@ -28,7 +28,7 @@
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
 
-    "IronSourceKey"           : "xxxxx"
+    "IronSourceKey"           : "19cf95015"
   },
 
 
