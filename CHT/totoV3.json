@@ -1,0 +1,123 @@
+{
+  "appRedirect": {
+    "status": false,
+    "redirectURL": ""
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"           : "applovin",
+    "InterstitialNetwork"     : "applovin",
+    "NativeNetwork"           : "applovin",
+    
+    "IntervalClick"           : 1,
+    
+    "AdMob_ID"               : "pub-394025609994254xx4",
+    "AdMob_Banner"           : "ca-app-pub-394025609994254xx4/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-394025609994254xx4/1033173712",
+    "AdMob_Native"           : "ca-app-pub-394025609994254xx4/2247696110",
+    
+    "Facebook_Banner"         : "XXX",
+    "Facebook_InterstitialAd" : "XXX",
+    "Facebook_Native"         : "XX",
+    
+    "Applovin_Banner"        : "XXXX",
+    "Applovin_InterstitialAd": "XXXX",
+    "Applovin_Native"        : "XXXX",
+
+    "Unity_GameID"           : "4076527xxx",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    
+    "IronSourceKey"          : "XXXX"
+  },
+  
+  "contact": [
+    {
+      "name": "Olivia",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g1.png",
+      "age": 23,
+      "country": "Egypt",
+      "audio": "https://archive.org/download/video_2_20210618/audio_1.mp3",
+      "video": "https://ia601408.us.archive.org/34/items/video_2_20210618/video_1.mp4",
+      "about": "🤕🤕🤕 I'm sick"
+    },
+    {
+      "name": "Emma",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g2.png",
+      "age": 18,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Love 😍 ~ dating 🤐 ~ soprt"
+    },
+    {
+      "name": "Sophia",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g3.png",
+      "age": 21,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Today is my Birthday 🥳🥳🥳🥳🥳🥳🥳 happy happy"
+    },
+    {
+      "name": "Isabella",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g4.png",
+      "age": 24,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Don't talk with me 🤬🤬🤬🤬🤬🤬🤬🤬, hahaha I'm just kidding with you 🤣"
+    },
+    {
+      "name": "Evelyn",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g5.png",
+      "age": 19,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Yooooo Yooo 👻 👻, I'm a ghost, Don't talk with me 👻👻👻"
+    },
+    {
+      "name": "Murphy",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g6.png",
+      "age": 20,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Love 😍 ~ dating 🤐 ~ soprt"
+    },
+    {
+      "name": "Freyja",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g7.jpg",
+      "age": 23,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "bla bla bla 😪😪😪😪😪😪"
+    },
+    {
+      "name": "Aria",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g8.jpg",
+      "age": 21,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "Love 😍 ~ dating 🤐 ~ soprt"
+    },
+    {
+      "name": "Layla",
+      "profile": "https://zonekapp.com/AndroidStudio/MeetGrils/g9.png",
+      "age": 17,
+      "country": "Egypt",
+      "audio": "",
+      "video": "",
+      "about": "nothing else chat 🤣 "
+    }
+  ],
+  "chats": [
+    "hello from server 😀",
+    "how are how 😅",
+    "do you like this application ?"
+  ]
+}
