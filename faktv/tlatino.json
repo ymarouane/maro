@@ -5,7 +5,7 @@
   },
   "AdsController": {
     "BannerNetwork"           : "ironsource",
-    "InterstitialNetwork"     : "applovin",
+    "InterstitialNetwork"     : "ironsource",
     "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "admob",
 
