@@ -38,6 +38,10 @@
     
     "category": [
       {
+        "name": "Real Madrid - Manchester City",
+        "preview": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg"
+      },
+      {
         "name": "Sport",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
       },
@@ -52,9 +56,17 @@
     ],
     "Sport": [
       {
+        "title": "Real Madrid - Manchester City",
+        "preview": "https://estaticos.esmadrid.com/cdn/farfuture/U7_1QZEirpUyXVUw_NFTHp5O1TB0FeTPOL-G81lp0JI/mtime:1682064376/sites/default/files/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg",
+        "rating": "4.8",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
         "title": "Sport HD 1",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "2.5",
+        "rating": "4.5",
         "ratingUS"   : "",
         "openLink" : "",
         "description": ""
