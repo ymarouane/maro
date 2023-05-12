@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/playertvkhawya",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "us,uk,qa,in",
+  "BLACK_LIST" : "ru",
 
   "status": "ok",
   "app": {
@@ -30,7 +30,7 @@
   "ads": {
     "id": 1,
     "ad_status": "on",
-    "ad_type": "ironsource",
+    "ad_type": "applovin_max",
     "backup_ads": "applovin_max",
     "admob_publisher_id": "pub-3310092436760888",
     "admob_app_id": "ca-app-pub-3310092436760888~4126409623",
