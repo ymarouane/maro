@@ -7,8 +7,8 @@
   "DATA_URL_REDIRECTION": "https://github.com/ymarouane/maro/raw/main/dt/khawyaYoutube.json",
 
   "app": {
-    "status": 1,
-    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yunes.yacine.tv"
+    "status": 0,
+    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yanis.tv.plus"
   },
 
   "settings": {
