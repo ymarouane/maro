@@ -7,8 +7,8 @@
   "DATA_URL_REDIRECTION": "https://raw.githubusercontent.com/ymarouane/maro/main/dt/datakhwya.json",
 
   "app": {
-    "status": 1,
-    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.youness.yacine.tv"
+    "status": 0,
+    "redirect_url": "https:\/\/play.google.com\/store\/apps\/details?id=app.yanis.tv.plus"
   },
 
   "settings": {
