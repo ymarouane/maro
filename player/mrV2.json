@@ -10,14 +10,14 @@
     "BannerNetwork"              : "ironsource",
     "InterstitialNetwork"        : "ironsource",
     
-    "InterstitialPlayerOpen"     : "ironsource",
+    "InterstitialPlayerOpen"     : "admob",
     "InterstitialPlayerBack"     : "ironsource",
     
     
     "IntervalClick"              : 1,
-    "AdMob_ID"                   : "pub-6782970622346694",
-    "AdMob_Banner"               : "ca-app-pub-6782970622346694/6635532205",
-    "AdMob_InterstitialAd"       : "ca-app-pub-6782970622346694/4009368863",
+    "AdMob_ID"                   : "pub-1832731666295844",
+    "AdMob_Banner"               : "ca-app-pub-1832731666295844/xxx",
+    "AdMob_InterstitialAd"       : "ca-app-pub-1832731666295844/5916018886",
    
     "Facebook_Banner"            : "568338922060324_569348695292680",
     "Facebook_InterstitialAd"    : "568338922060324_569348745292675",
@@ -29,7 +29,7 @@
     "Unity_Banner"               : "BannerAd",
     "Unity_InterstitialAd"       : "InterstitialAd",
     
-    "IronSourceKey"              : "xxxx197553045"
+    "IronSourceKey"              : "197553045"
     
     
   }
