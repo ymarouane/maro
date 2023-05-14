@@ -11,7 +11,7 @@
   "status": "ok",
   "app": {
     "status": 1,
-    "redirect_url": "https://play.google.com/store/apps/details?id=com.app.marrotv"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.app.marotv"
   },
   "settings": {
     "id": 1,
@@ -24,7 +24,7 @@
     "providers": "firebase",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https://play.google.com/store/apps/details?id=com.app.marrotv",
+    "more_apps_url": "https://play.google.com/store/apps/details?id=com.app.marotv",
     "youtube_api_key": 0
   },
   "ads": {
