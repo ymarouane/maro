@@ -3,10 +3,10 @@
   "applicationId": "app.yanis.tv.plus",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/playertvkhawya",
+  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "uk,us,qa,in,es",
+  "BLACK_LIST" : "uk,us,qa,in",
 
   "status": "ok",
   "app": {
@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"true",
+    "external_player"    :"false",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "5486148b-5377-4ae8-bd04-b3fea962c7d7",
