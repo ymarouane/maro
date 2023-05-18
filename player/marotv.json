@@ -3,10 +3,10 @@
   "applicationId": "com.app.marotv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
+  "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/tvplayer",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "in",
+  "BLACK_LIST" : "it,al,ao,au,bh,bd,be,bj,bw,bf,cm,ca,cv,ci,dk,do,eg,fr,ga,gh,gw,jo,ke,kw,lb,ml,mu,ma,mz,na,na,ng,om,pg,rw,sa,sn,sg,lk,tz,tg,tt,tn,tr,ug,ye,zm,zw",
 
   "status": "ok",
   "app": {
@@ -29,7 +29,7 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
+    "ad_status": "on",
     "ad_type": "applovin_max",
     "backup_ads": "ironsource",
     "admob_publisher_id": "pub-xx",
@@ -49,9 +49,9 @@
     "unity_game_id": 0,
     "unity_banner_placement_id": 0,
     "unity_interstitial_placement_id": 0,
-    "applovin_banner_ad_unit_id": "xx",
-    "applovin_interstitial_ad_unit_id": "xx",
-    "applovin_native_ad_manual_unit_id": "xx",
+    "applovin_banner_ad_unit_id": "fefeb2c82729c16c",
+    "applovin_interstitial_ad_unit_id": "42aaa0eb3f88bd3c",
+    "applovin_native_ad_manual_unit_id": "38f1a147589cefa9",
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
     "ironsource_app_key": "xx",
