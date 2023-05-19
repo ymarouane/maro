@@ -4,12 +4,12 @@
     "redirectURL" : ""
   },
   "AdsController": {
-    "BannerNetwork"           : "xx",
-    "InterstitialNetwork"     : "xx",
-    "NativeNetwork"           : "xx",
+    "BannerNetwork"           : "ironsource",
+    "InterstitialNetwork"     : "applovin",
+    "NativeNetwork"           : "applovin",
     "RewardNetwork"           : "admob",
 
-    "IntervalClick"           : 3,
+    "IntervalClick"           : 1,
 
     "AdMob_ID"                : "pub-3940256099942544",
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
@@ -38,6 +38,10 @@
     
     "category": [
       {
+        "name": "Real Madrid - Manchester City",
+        "preview": "https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg"
+      },
+      {
         "name": "Sport",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
       },
@@ -50,13 +54,32 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
       }
     ],
+    "Real Madrid - Manchester City": [
+      {
+        "title": "Server 1 ",
+        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
+        "rating": "4.8",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
+        "title": "Server 2",
+        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
+        "rating": "4.5",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      }
+    ],
     "Sport": [
+
       {
         "title": "Sport HD 1",
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
-        "rating": "2.5",
+        "rating": "4.5",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
+        "openLink" : "",
         "description": ""
       },
       {
@@ -64,7 +87,7 @@
         "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
         "rating": "4.0",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/T31yQf24EOs",
+        "openLink" : "",
         "description": ""
       }
     ],
@@ -74,7 +97,7 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/gpMhr7PdlLA",
+        "openLink" : "",
         "description": ""
       },
       {
@@ -82,7 +105,7 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/gpMhr7PdlLA",
+        "openLink" : "",
         "description": ""
       }
     ],
@@ -92,7 +115,7 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
+        "openLink" : "",
         "description": ""
       },
       {
@@ -100,7 +123,7 @@
         "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
         "rating": "5.0",
         "ratingUS"   : "",
-        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
+        "openLink" : "",
         "description": ""
       }
     ]
