@@ -1,12 +1,12 @@
 {
-  "PANEL_URL": "https://mar1.online/mrTV/app",
+  "PANEL_URL": "https://marouaneai.com/ytv/tvplayer",
   "applicationId": "com.app.marotv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://marouaneai.com/ytv/tvplayer",
+  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "it,al,ao,au,bh,bd,be,bj,bw,bf,cm,ca,cv,ci,dk,do,eg,fr,ga,gh,gw,jo,ke,kw,lb,ml,mu,ma,mz,na,na,ng,om,pg,rw,sa,sn,sg,lk,tz,tg,tt,tn,tr,ug,ye,zm,zw",
+  "BLACK_LIST" : "es,gb,in,qa,us",
 
   "status": "ok",
   "app": {
