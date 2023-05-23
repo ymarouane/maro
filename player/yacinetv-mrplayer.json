@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "us,in",
+  "BLACK_LIST" : "in",
 
   "status": "ok",
   "app": {
@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"true",
+    "external_player"    :"false",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "69f2ad6d-12fc-49ee-a57f-e47a1b323e01",
