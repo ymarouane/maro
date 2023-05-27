@@ -3,10 +3,10 @@
   "applicationId": "app.yunes.yacine.tvv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://goo4kora.com/TEAM/DODOYACINE",
-  "REST_API_KEY_REDIRECTION": "cda11opdAeWgtNBbL21DmxrX3hTJPkUuIYEqZS6nOsVCcH4yv0",
+  "PANEL_URL_REDIRECTION": "https://hightecknet.com/yacinecatapult",
+  "REST_API_KEY_REDIRECTION": "cda11a9Ozom56vfSNUtVn4DPwQZGxKdq3jFcYuyW1pAXIJhHTM",
   
-  "BLACK_LIST" : "us,uk,in",
+  "BLACK_LIST" : "us,uk,in,es,ma",
 
   "status": "ok",
   "app": {
@@ -15,7 +15,7 @@
   },
   "settings": {
     "id": 1,
-    "external_player"    :"false",
+    "external_player"    :"true",
     "external_player_id" :"com.MAROUANE.player",
     "app_fcm_key": 0,
     "onesignal_app_id": "aa",
