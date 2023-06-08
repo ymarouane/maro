@@ -29,8 +29,8 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
+    "ad_status": "on",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3310092436760888xx",
     "admob_app_id": "ca-app-pub-3310092436760888xx~6454674580",
