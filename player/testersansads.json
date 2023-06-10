@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://hightecknet.com/yacinecatapult",
   "REST_API_KEY_REDIRECTION": "cda11a9Ozom56vfSNUtVn4DPwQZGxKdq3jFcYuyW1pAXIJhHTM",
   
-  "BLACK_LIST" : "in,qa",
+  "BLACK_LIST" : "in,qa,es,ma",
 
   "status": "ok",
   "app": {
