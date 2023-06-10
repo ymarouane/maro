@@ -3,8 +3,8 @@
   "applicationId": "app.yunes.yacine.tvv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL": "https://marouaneai.com/ytv/tvplayer",
-  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL_REDIRECTION": "https://hightecknet.com/yacinecatapult",
+  "REST_API_KEY_REDIRECTION": "cda11a9Ozom56vfSNUtVn4DPwQZGxKdq3jFcYuyW1pAXIJhHTM",
   
   "BLACK_LIST" : "in,qa",
 
