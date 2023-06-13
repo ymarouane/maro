@@ -26,8 +26,8 @@
 
   "ads": {
     "id": 1,
-    "ad_status": "on",
-        "ad_type":"ironsource",
+    "ad_status": "off",
+        "ad_type":"none",
         "backup_ads":"none",
         "admob_publisher_id":"pub-2742207963022064",
         "admob_app_id":"ca-app-pub-2742207963022064~6751554066",
