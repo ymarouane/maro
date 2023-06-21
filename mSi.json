@@ -6,9 +6,9 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "ironsource",
+    "BannerNetwork"              : "applovin",
     "InterstitialNetwork"        : "applovin",
-    "NativeNetwork"              : "admob",
+    "NativeNetwork"              : "applovin",
     "BannerPlayer"               : "ironsource",
     
     "AdMob_ID"                : "pub-1832731666295844",
@@ -17,9 +17,9 @@
     "AdMob_Native"            : "ca-app-pub-1832731666295844/9624010823",
     
     
-    "Applovin_Banner"         : "a5f235ba1320fb35XX",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38XX",
-    "Applovin_Native"         : "76af75d288a7ada9XX",
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "76af75d288a7ada9",
     
     "Unity_GameID"           : "4076527XX",
     "Unity_Banner"           : "BannerAd",
