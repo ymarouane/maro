@@ -10,7 +10,7 @@
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
-    "IntervalClick"           : 3,
+    "IntervalClick"           : 10,
     
     "AdMob_ID"               : "pub-7476903604440240",
     "AdMob_Banner"           : "ca-app-pub-7476903604440240/8205247630",
