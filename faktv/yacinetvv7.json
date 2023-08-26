@@ -1,13 +1,13 @@
 {
   "appRedirect": {
-    "status"      : false,
-    "redirectURL" : ""
+    "status"      : true,
+    "redirectURL" : "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
   },
   "AdsController": {
-    "BannerNetwork"           : "admob",
+    "BannerNetwork"           : "applovin",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
-    "RewardNetwork"           : "ironsource",
+    "RewardNetwork"           : "applovin",
 
     "IntervalClick"           : 1,
 
