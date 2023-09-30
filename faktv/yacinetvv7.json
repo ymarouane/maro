@@ -1,13 +1,13 @@
 {
   "appRedirect": {
     "status"      : false,
-    "redirectURL" : "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
+    "redirectURL" : "app tsdat ytv "
   },
   "AdsController": {
-    "BannerNetwork"           : "admob",
+    "BannerNetwork"           : "applovin",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
-    "RewardNetwork"           : "admob",
+    "RewardNetwork"           : "applovin",
 
     "IntervalClick"           : 1,
 
