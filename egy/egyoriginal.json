@@ -9,18 +9,18 @@
       
     "BannerSettings": {
       "RunAdMobAuto"  : false,
-      "SwitchNetwork" : "facebook"
+      "SwitchNetwork" : "applovin"
     },
 
     "InterstitialSettings": {
       "RunAdMobAuto"    : true,
       "AdMobClickCount" : 2,
-      "SwitchNetwork"   : "facebook"
+      "SwitchNetwork"   : "applovin"
     },
 
     "NativeSettings": {
       "RunAdMobAuto"  : true,
-      "SwitchNetwork" : "facebook"
+      "SwitchNetwork" : "applovin"
     },
 
 
