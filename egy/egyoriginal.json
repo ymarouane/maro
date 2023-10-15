@@ -8,7 +8,7 @@
   "AdsController": {
       
     "BannerSettings": {
-      "RunAdMobAuto"  : false,
+      "RunAdMobAuto"  : true,
       "SwitchNetwork" : "applovin"
     },
 
@@ -25,17 +25,18 @@
 
 
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"            : "ca-app-pub-7476903604440240/9203557312",
+    "AdMob_InterstitialAd"    : "ca-app-pub-7476903604440240/6907748226",
+    "AdMob_Native"            : "ca-app-pub-7476903604440240/5594666554",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_Banner"         : "xx",
+    "Facebook_InterstitialAd" : "xx",
+    "Facebook_Native"         : "xx",
     
-    "Applovin_Banner"         : "aa",
-    "Applovin_InterstitialAd" : "aa",
-    "Applovin_Native"         : "aa",
+    "Applovin_Banner"         : "176aa91b7c20a591",
+    "Applovin_InterstitialAd" : "dd54181393a370be",
+    "Applovin_Native"         : "016894e5cfda2d44",
+
      
     "Unity_GameID"            : "4076500",
     "Unity_Banner"            : "BannerAd",
@@ -43,7 +44,7 @@
 
     "IronSourceKey"           : "aaaa",
     
-    "OnesignalKey"            : "aa",
+    "OnesignalKey"            : "824e2928-cd7e-4920-9222-e88eacfa19c4",
     "DeveloperStore"          : "https://play.google.com/store/apps/developer?id=Garena+International+I",
     "PrivacyUrl"              : "https://sites.google.com/view/essota-policy",
 
@@ -51,7 +52,7 @@
     "ThemoviedbKey"           : "dc16fa48623a7baf911283eff3d73be2",
     
     "ShowContentByCountry"    : "",
-    "ForceRatingRequest"      : false
+    "ForceRatingRequest"      : true
 
   }
 }
