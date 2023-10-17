@@ -51,7 +51,7 @@
     
     "ThemoviedbKey"           : "dc16fa48623a7baf911283eff3d73be2",
     
-    "ShowContentByCountry"    : "",
+    "ShowContentByCountry"    : "ca,eg,ma,fr,sa,ae,qa,dz,au,at,az,bs,bd,be,bj,br,bf,cm,cv,cr,ci,hr,cz,,de,fr,gr,it,jo,ke,kw,lb,lu,ml,my,mx,mz,nz,ng,pk,pe,py,ph,sn,ru,es,se,sg,tr,tw,tn,vn,ye",
     "ForceRatingRequest"      : true
 
   }
