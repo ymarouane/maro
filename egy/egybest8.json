@@ -1,0 +1,58 @@
+{
+    
+  "AppRedirect": {
+    "status"       : false,
+    "redirect_link": "https://play.google.com/store/apps/details?id=egybestinc.app"
+  },
+  
+  "AdsController": {
+      
+    "BannerSettings": {
+      "RunAdMobAuto"  : true,
+      "SwitchNetwork" : "applovin"
+    },
+
+    "InterstitialSettings": {
+      "RunAdMobAuto"    : true,
+      "AdMobClickCount" : 2,
+      "SwitchNetwork"   : "applovin"
+    },
+
+    "NativeSettings": {
+      "RunAdMobAuto"  : true,
+      "SwitchNetwork" : "applovin"
+    },
+
+
+    
+    "AdMob_Banner"            : "ca-app-pub-xx/9203557312",
+    "AdMob_InterstitialAd"    : "ca-app-pub-xx/6907748226",
+    "AdMob_Native"            : "ca-app-pub-xx/5594666554",
+    
+    "Facebook_Banner"         : "xx",
+    "Facebook_InterstitialAd" : "xx",
+    "Facebook_Native"         : "xx",
+    
+    "Applovin_Banner"         : "176aa91b7c20a591XX",
+    "Applovin_InterstitialAd" : "dd54181393a370beXX",
+    "Applovin_Native"         : "016894e5cfda2d44XX",
+
+     
+    "Unity_GameID"            : "4076500",
+    "Unity_Banner"            : "BannerAd",
+    "Unity_InterstitialAd"    : "InterstitialAd",
+
+    "IronSourceKey"           : "aaaa",
+    
+    "OnesignalKey"            : "824e2928-cd7e-4920-9222-e88eacfa19c4",
+    "DeveloperStore"          : "https://play.google.com/store/apps/developer?id=Garena+International+I",
+    "PrivacyUrl"              : "https://sites.google.com/view/essota-policy",
+
+    
+    "ThemoviedbKey"           : "dc16fa48623a7baf911283eff3d73be2",
+    
+    "ShowContentByCountry"    : "",
+    "ForceRatingRequest"      : false
+
+  }
+}
