@@ -1,20 +1,20 @@
 {
   "AppRedirect": {
-    "status"        : false,
-    "redirect_link" : "https://play.google.com/store/apps/details?id=app.music.si"
+    "status"        : true,
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.musicsi.musistream"
   },
   
   "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
-    "BannerPlayer"               : "admob",
+    "BannerNetwork"              : "aa",
+    "InterstitialNetwork"        : "aa",
+    "NativeNetwork"              : "aa",
+    "BannerPlayer"               : "aa",
     
-    "AdMob_ID"                : "pub-7476903604440240",
-    "AdMob_Banner"            : "ca-app-pub-7476903604440240/4153311194",
-    "AdMob_InterstitialAd"    : "ca-app-pub-7476903604440240/1527147855",
-    "AdMob_Native"            : "ca-app-pub-7476903604440240/3226144856",
+    "AdMob_ID"                : "pub-aa",
+    "AdMob_Banner"            : "ca-app-pub-aa/4153311194",
+    "AdMob_InterstitialAd"    : "ca-app-pub-aa/1527147855",
+    "AdMob_Native"            : "ca-app-pub-aa/3226144856",
     
     
     "Applovin_Banner"         : "482ebcb62ff68a6f",
