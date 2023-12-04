@@ -6,8 +6,8 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "max",
-    "InterstitialNetwork"     : "max",
+    "BannerNetwork"           : "applovin",
+    "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
     "IntervalClick"           : 1,
