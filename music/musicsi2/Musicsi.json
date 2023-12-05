@@ -1,25 +1,25 @@
 {
   "AppRedirect": {
     "status"        : false,
-    "redirect_link" : "https://play.google.com/store/apps/details?id=com.musicsi.musicstream"
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
   },
   
   "AdsController": {
       
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
-    "IntervalClick"           : 100,
+    "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-7476903604440240/7801082945",
-    "AdMob_InterstitialAd"    : "ca-app-pub-7476903604440240/3993985286",
-    "AdMob_Native"            : "ca-app-pub-7476903604440240/7525750775",
-    "AdMob_OpenAd"            : "ca-app-pub-7476903604440240/2548756265",
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/3419835294",
     
-    "Applovin_Banner"         : "xx",
-    "Applovin_InterstitialAd" : "xx",
-    "Applovin_Native"         : "xx"
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "76af75d288a7ada9"
     
    
   },
@@ -27,13 +27,13 @@
   "AppSettings":{
       
       "DownloadSettings":{
-          "status"          : false,
-          "blockedDownload" : "in"
+          "status"          : true,
+          "blockedDownload" : "ma"
       },
       
        "ServerSettings":{
           "status"        : true,
-          "blockedServer" : "in,uk"
+          "blockedServer" : "ma,us,ca,ru,fr,sp,pr"
       }
       
   }
