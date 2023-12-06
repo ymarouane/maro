@@ -28,12 +28,12 @@
       
       "DownloadSettings":{
           "status"          : true,
-          "blockedDownload" : "ma"
+          "blockedDownload" : "in,us"
       },
       
        "ServerSettings":{
           "status"        : true,
-          "blockedServer" : "ma,us,ca,ru,fr,sp,pr"
+          "blockedServer" : "in"
       }
       
   }
