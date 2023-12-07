@@ -1,0 +1,41 @@
+{
+  "AppRedirect": {
+    "status"        : false,
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.musicsi.musicstream"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"           : "admobapplovin",
+    "InterstitialNetwork"     : "admob",
+    "NativeNetwork"           : "admob",
+    
+    "IntervalClick"           : 2,
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544xx/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544xx/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544xx/2247696110",
+    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544xx/3419835294",
+    
+    "Applovin_Banner"         : "5e097132d17389e8",
+    "Applovin_InterstitialAd" : "09dfb954cb99095e",
+    "Applovin_Native"         : "0fc0c9eb3bdd37bf"
+    
+   
+  },
+  
+  "AppSettings":{
+      
+      "DownloadSettings":{
+          "status"          : true,
+          "blockedDownload" : "in,us"
+      },
+      
+       "ServerSettings":{
+          "status"        : false,
+          "blockedServer" : "in"
+      }
+      
+  }
+      
+}
