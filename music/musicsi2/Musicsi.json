@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status"        : false,
+    "status"        : true,
     "redirect_link" : "https://play.google.com/store/apps/details?id=com.musicsi.musicstream"
   },
   
