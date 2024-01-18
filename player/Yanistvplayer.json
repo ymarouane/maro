@@ -3,7 +3,7 @@
   "applicationId": "app.yanis.tv.plus",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "PANEL_URL_REDIRECTION": "https://mar1.online/mrTV/app",
+  "PANEL_URL_REDIRECTION": "https://youcineapp.tech/thestream",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
   "BLACK_LIST" : "uk,us,qa,in",
