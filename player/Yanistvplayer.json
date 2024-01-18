@@ -24,7 +24,7 @@
     "providers": "firebase",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https://play.google.com/store/apps/dev?id=6788269409606997445",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=BouhSoft",
     "youtube_api_key": 0
   },
   "ads": {
