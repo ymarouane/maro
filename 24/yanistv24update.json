@@ -22,11 +22,23 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "fan",
-    "backup_ads": "ironsource",
-    
-	
+    "ad_status": "off",
+    "ad_type": "ironsource",
+    "backup_ads": "admob",
+
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 3,
+    "native_ad_index": 3,
+
+    "applovin_banner_ad_unit_id": "98f2f90e1ee2287a",
+    "applovin_interstitial_ad_unit_id": "5e0c916e20a70c13",
+    "applovin_native_ad_manual_unit_id": "c2992695e71607f2",
+    "applovin_app_open_ad_unit_id": "xx",
+
+    "ironsource_app_key": "xx",
+    "ironsource_banner_placement_name": "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+	  
     "admob_publisher_id": "pub-6821840898907717",
     "admob_app_id": "ca-app-pub-6821840898907717~6821840898907717",
     "admob_banner_unit_id": "ca-app-pub-6821840898907717/9641083116",
@@ -50,10 +62,6 @@
     "unity_banner_placement_id": 0,
     "unity_interstitial_placement_id": 0,
     
-	"applovin_banner_ad_unit_id": "98f2f90e1ee2287a",
-    "applovin_interstitial_ad_unit_id": "5e0c916e20a70c13",
-    "applovin_native_ad_manual_unit_id": "c2992695e71607f2",
-    "applovin_app_open_ad_unit_id": "xx",
 	
 
     
@@ -61,9 +69,6 @@
     "applovin_banner_zone_id": 0,
     "applovin_interstitial_zone_id": 0,
     
-    "ironsource_app_key": "xx",
-    "ironsource_banner_placement_name": "DefaultBanner",
-    "ironsource_interstitial_placement_name": "DefaultInterstitial",
     
     "wortise_app_id": "test-app-id",
     "wortise_banner_unit_id": "test-banner",
@@ -74,9 +79,7 @@
     "mopub_banner_ad_unit_id": 0,
     "mopub_interstitial_ad_unit_id": 0,
     
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 3,
-    "native_ad_index": 3,
+
     "date_time": "2023-09-22 00:08:03",
     "test_mode": 0
   },
