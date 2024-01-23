@@ -10,8 +10,8 @@
 
   "status": "ok",
   "app": {
-    "status": 1,
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.mrplayer"
+    "status": 0,
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
   },
   "settings": {
     "id": 1,
@@ -29,9 +29,9 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "admob",
-    "backup_ads": "applovin",
+    "ad_status": "off",
+    "ad_type": "none",
+    "backup_ads": "none",
     
     "admob_publisher_id": "pub-6821840898907717",
     "admob_app_id": "ca-app-pub-6821840898907717~6821840898907717",
