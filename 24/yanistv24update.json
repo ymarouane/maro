@@ -24,7 +24,7 @@
     "id": 1,
     "ad_status": "on",
     "ad_type": "admob",
-    "backup_ads": "ironsource",
+    "backup_ads": "applovin",
 
     "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
