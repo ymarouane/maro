@@ -33,12 +33,12 @@
     "ad_type": "applovin_max",
     "backup_ads": "applovin",
     
-    "admob_publisher_id": "pub-6821840898907717",
-    "admob_app_id": "ca-app-pub-6821840898907717~6821840898907717",
-    "admob_banner_unit_id": "ca-app-pub-6821840898907717/9641083116",
-    "admob_interstitial_unit_id": "ca-app-pub-6821840898907717/4277075797",
-    "admob_native_unit_id": "ca-app-pub-6821840898907717/9337830784",
-    "admob_app_open_ad_unit_id": "ca-app-pub-6821840898907717/1135088894",
+    "admob_publisher_id": "pub-7476903604440240",
+    "admob_app_id": "ca-app-pub-7476903604440240~7476903604440240",
+    "admob_banner_unit_id": "ca-app-pub-7476903604440240/6439169233",
+    "admob_interstitial_unit_id": "ca-app-pub-7476903604440240/5126087564",
+    "admob_native_unit_id": "ca-app-pub-7476903604440240/4782472636",
+    "admob_app_open_ad_unit_id": "ca-app-pub-7476903604440240/3026537838",
     
     "ad_manager_banner_unit_id": "\/6499\/example\/banner",
     "ad_manager_interstitial_unit_id": "\/6499\/example\/interstitial",
