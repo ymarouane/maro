@@ -65,9 +65,9 @@
 	
 
     
-    "applovin_banner_mrec_zone_id": 0,
-    "applovin_banner_zone_id": 0,
-    "applovin_interstitial_zone_id": 0,
+    "applovin_banner_mrec_zone_id": "98f2f90e1ee2287a",
+    "applovin_banner_zone_id": "98f2f90e1ee2287a",
+    "applovin_interstitial_zone_id": "5e0c916e20a70c13",
     
     
     "wortise_app_id": "test-app-id",
