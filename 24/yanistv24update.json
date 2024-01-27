@@ -24,7 +24,7 @@
     "id": 1,
     "ad_status": "on",
     "ad_type": "admob",
-    "backup_ads": "applovin",
+    "backup_ads": "applovin_discovery",
 
     "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
