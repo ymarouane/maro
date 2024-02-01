@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://youcineapp.tech/thestream",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "uk,qa,in,us",
+  "BLACK_LIST" : "uk,qa,in,us,es",
 
   "status": "ok",
   "app": {
@@ -31,12 +31,12 @@
     "id": 1,
     "ad_status": "on",
     "ad_type": "admob",
-    "backup_ads": "applovin",
+    "backup_ads": "applovin_max",
     
     "admob_publisher_id": "pub-7476903604440240",
     "admob_app_id": "ca-app-pub-7476903604440240~7476903604440240",
     "admob_banner_unit_id": "ca-app-pub-7476903604440240/6439169233",
-    "admob_interstitial_unit_id": "ca-app-pub-7476903604440240/5126087564",
+    "admob_interstitial_unit_id": "ca-app-pub-xx00xx/512xx00xx6087564",
     "admob_native_unit_id": "ca-app-pub-7476903604440240/4782472636",
     "admob_app_open_ad_unit_id": "ca-app-pub-7476903604440240/3026537838",
     
