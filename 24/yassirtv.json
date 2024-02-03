@@ -39,12 +39,12 @@
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
 	  
-    "admob_publisher_id": "pub-2140098300610716",
-    "admob_app_id": "ca-app-pub-2140098300610716~2140098300610716",
-    "admob_banner_unit_id": "ca-app-pub-2140098300610716/6165629075",
-    "admob_interstitial_unit_id": "ca-app-pub-2140098300610716/3264983623",
-    "admob_native_unit_id": "ca-app-pub-2140098300610716/3284314869",
-    "admob_app_open_ad_unit_id": "ca-app-pub-2140098300610716/9638820288",
+    "admob_publisher_id": "pub-xx",
+    "admob_app_id": "ca-app-pub-xx~2140098300610716",
+    "admob_banner_unit_id": "ca-app-pub-xx/6165629075",
+    "admob_interstitial_unit_id": "ca-app-pub-xx/3264983623",
+    "admob_native_unit_id": "ca-app-pub-xx/3284314869",
+    "admob_app_open_ad_unit_id": "ca-app-pub-xx/9638820288",
 
    
     "ad_manager_banner_unit_id": "\/6499\/example\/banner",
