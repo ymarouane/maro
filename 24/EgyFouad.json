@@ -22,9 +22,9 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "applovin",
-    "backup_ads": "applovin_discovery",
+    "ad_status": "off",
+    "ad_type": "applovinxx",
+    "backup_ads": "applovin_discoveryxx",
 
     "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
