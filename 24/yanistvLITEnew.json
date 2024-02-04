@@ -1,13 +1,13 @@
 {
   "applicationId": "app.yanis.tv.lite",
   
-  "PANEL_URL": "https://whoomain.uk/ARABICGROUP/YACINETV",
-  "REST_API_KEY": "cda11eHwk9Fxvb6VG28ufsgNyiWUcDoP1nRXJA5LK7EIlQrSMh",
+  "PANEL_URL": "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "",
+  "BLACK_LIST" : "in,uk,qa,es",
 
 
   "status": "ok",
