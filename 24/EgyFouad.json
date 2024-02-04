@@ -1,13 +1,15 @@
 {
   "applicationId": "com.egybestinc.app",
   
-  "PANEL_URL": "https://marouaneai.com/thestream24/Egybest/fouad",
-  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Egybest/Panel",
+  
+  "PANEL_URL": "https://whoomain.uk/ARABICGROUP/YACINETV",
+  "REST_API_KEY": "cda11eHwk9Fxvb6VG28ufsgNyiWUcDoP1nRXJA5LK7EIlQrSMh",
+
+  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "gb,ie,us,in",
+  "BLACK_LIST" : "",
 
 
   "status": "ok",
