@@ -4,10 +4,10 @@
   "PANEL_URL": "https://marouaneai.com/thestream24/Egybest/fouad",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Egybest/Panel",
-  "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL_REDIRECTION"    : "https://whoomain.uk/DATA/Arabic",
+  "REST_API_KEY_REDIRECTION" : "cda11tTJB9LhD4nV73vesm0162P5pXIEFHGlQwR8fCNabdzOUk",
 
-  "BLACK_LIST" : "gb,ie,us,in",
+  "BLACK_LIST" : "ma,es,ae",
 
 
   "status": "ok",
