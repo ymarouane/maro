@@ -22,18 +22,18 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "applovinxx",
-    "backup_ads": "applovin_discoveryxx",
+    "ad_status": "on",
+    "ad_type": "fan",
+    "backup_ads": "none",
 
     "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
     "native_ad_index": 3,
 
-    "applovin_banner_ad_unit_id": "3ee25c4d0b83615e",
-    "applovin_interstitial_ad_unit_id": "e691b371de893e18",
-    "applovin_native_ad_manual_unit_id": "c52ab16fc5f217ae",
-    "applovin_app_open_ad_unit_id": "e4dee9e9f8a153aa",
+    "applovin_banner_ad_unit_id": "XXX3ee25c4d0b83615e",
+    "applovin_interstitial_ad_unit_id": "XXXe691b371de893e18",
+    "applovin_native_ad_manual_unit_id": "XXXc52ab16fc5f217ae",
+    "applovin_app_open_ad_unit_id": "XXXe4dee9e9f8a153aa",
 
     "ironsource_app_key": "xx",
     "ironsource_banner_placement_name": "DefaultBanner",
@@ -52,9 +52,9 @@
     "ad_manager_native_unit_id": "\/6499\/example\/native",
     "ad_manager_app_open_ad_unit_id": "\/6499\/example\/app-open",
     
-    "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-    "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-    "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    "fan_banner_unit_id": "730551405715662_730553029048833",
+    "fan_interstitial_unit_id": "730551405715662_730553085715494",
+    "fan_native_unit_id": "730551405715662_730553152382154",
     
     "startapp_app_id": 123456789,
     
