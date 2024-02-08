@@ -23,10 +23,10 @@
       
     "id": 1,
     "ad_status": "on",
-    "ad_type": "ironsource",
+    "ad_type": "admob",
     "backup_ads": "none",
 
-    "interstitial_ad_interval": 1,
+    "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
     "native_ad_index": 3,
 
