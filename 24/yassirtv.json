@@ -71,10 +71,10 @@
     
     
     "wortise_app_id": "705eb178-84c2-4605-bb74-5c0add9a9726",
-    "wortise_banner_unit_id": "test-banner",
-    "wortise_interstitial_unit_id": "705eb178-84c2-4605-bb74-5c0add9a9726",
-    "wortise_native_unit_id": "test-native",
-    "wortise_app_open_unit_id": "test-app-open",
+    "wortise_banner_unit_id": "6916fb31-a348-4ed2-913f-5adc77d8b3ae",
+    "wortise_interstitial_unit_id": "c7cb8ab9-12f4-4ebf-9c32-a0781a1706bd",
+    "wortise_native_unit_id": "fe403028-926a-410a-9b41-86edf21224d9",
+    "wortise_app_open_unit_id": "515b9ec0-cb78-434a-b1de-080d972901fc",
     
     "mopub_banner_ad_unit_id": 0,
     "mopub_interstitial_ad_unit_id": 0,
