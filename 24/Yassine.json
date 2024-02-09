@@ -92,8 +92,8 @@
     
     "onesignal_app_id": "",
     
-    "external_player"   : "false",
-    "external_player_id": "com.MAROUANE.player",
+    "external_player"   : "true",
+    "external_player_id": "nemosofts.hls.player",
     
     
     "onesignal_rest_api_key": 0,
