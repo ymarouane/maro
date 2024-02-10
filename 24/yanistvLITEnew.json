@@ -4,10 +4,10 @@
   "PANEL_URL": "https://marouaneai.com/thestream24/Yanistv24",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "PANEL_URL_REDIRECTION"    : "https://yassirtv.com/thestream/movieapp",
+  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "in,uk,qa,es,ma",
+  "BLACK_LIST" : "in,uk,qa,es",
 
 
   "status": "ok",
@@ -52,9 +52,9 @@
     "ad_manager_native_unit_id": "\/6499\/example\/native",
     "ad_manager_app_open_ad_unit_id": "\/6499\/example\/app-open",
     
-    "fan_banner_unit_id": "xxx1445247403090043_1446018646346252",
+    "fan_banner_unit_id": "1445247403090043_1446018646346252",
     "fan_interstitial_unit_id": "1445247403090043_1446018786346238",
-    "fan_native_unit_id": "xxx1445247403090043_1446018909679559",
+    "fan_native_unit_id": "1445247403090043_1446018909679559",
     
     "startapp_app_id": 123456789,
     
