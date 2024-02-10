@@ -1,13 +1,13 @@
 {
   "applicationId": "com.egybestinc.app",
   
-  "PANEL_URL": "https://marouaneai.com/thestream24/Egybest/fouad",
+  "PANEL_URL": "https://marouaneai.com/thestream24/yassirtv",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Egybest/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "gb,ie,us,in",
+  "BLACK_LIST" : "es,gb,ie,us,in,uk,qa",
 
 
   "status": "ok",
