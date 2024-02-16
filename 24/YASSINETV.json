@@ -7,7 +7,7 @@
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "in,uk,qa,es,us",
+  "BLACK_LIST" : "gb,ie,us,in,uk,qa,il,es",
 
 
   "status": "ok",
