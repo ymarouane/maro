@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "https://youcineapp.tech/thestream",
   "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   
-  "BLACK_LIST" : "gb,ie,us,in,uk,qa,il,es",
+  "BLACK_LIST" : "gb,ie,us,in,uk,qa,il",
 
   "status": "ok",
   "app": {
