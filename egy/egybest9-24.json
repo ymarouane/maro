@@ -8,19 +8,19 @@
   "AdsController": {
       
     "BannerSettings": {
-      "RunAdMobAuto"  : true,
-      "SwitchNetwork" : "//applovin"
+      "RunAdMobAuto"  : false,
+      "SwitchNetwork" : "applovin"
     },
 
     "InterstitialSettings": {
-      "RunAdMobAuto"    : true,
+      "RunAdMobAuto"    : false,
       "AdMobClickCount" : 2,
-      "SwitchNetwork"   : "//applovin"
+      "SwitchNetwork"   : "applovin"
     },
 
     "NativeSettings": {
-      "RunAdMobAuto"  : true,
-      "SwitchNetwork" : "//applovin"
+      "RunAdMobAuto"  : false,
+      "SwitchNetwork" : "applovin"
     },
 
 
@@ -33,9 +33,9 @@
     "Facebook_InterstitialAd" : "xx",
     "Facebook_Native"         : "xx",
     
-    "Applovin_Banner"         : "176aa91b7c20a591",
-    "Applovin_InterstitialAd" : "dd54181393a370be",
-    "Applovin_Native"         : "016894e5cfda2d44",
+    "Applovin_Banner"         : "547ee81717a91272",
+    "Applovin_InterstitialAd" : "8881903b19923d6d",
+    "Applovin_Native"         : "916ea1e03035c2ad",
 
      
     "Unity_GameID"            : "4076500",
