@@ -10,7 +10,7 @@
   
   "PANEL_URL_TARGET"         : "https://zonekapp.com/AndroidStudio/MarouanTV/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "TARGET_COUNTRIES"         : "DZ",
+  "TARGET_COUNTRIES"         : "",
 
 
   "status": "ok",
@@ -28,10 +28,10 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "none",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "applovin",
     
     "backup_ads"     : "ironsource",
     
@@ -61,11 +61,11 @@
     "unity_interstitial_placement_id"  : 0,
     "unity_interstitial_splash"        : 0,
     
-    "applovin_banner_ad_unit_id"       : 0,
-    "applovin_interstitial_ad_unit_id" : 0,
-    "applovin_interstitial_splash"     : 0,
-    "applovin_native_ad_manual_unit_id": 0,
-    "applovin_app_open_ad_unit_id"     : 0,
+    "applovin_banner_ad_unit_id"       : "47bacebfb096cf1c",
+    "applovin_interstitial_ad_unit_id" : "a2bb42954002f768",
+    "applovin_interstitial_splash"     : "a2bb42954002f768",
+    "applovin_native_ad_manual_unit_id": "fda54f8c191f5a59",
+    "applovin_app_open_ad_unit_id"     : "6c62d818e34f8f9a",
     
     "applovin_banner_mrec_zone_id"     : 0,
     "applovin_banner_zone_id"          : 0,
@@ -73,7 +73,7 @@
     "applovin_interstitial_zone_splash": 0,
     
     
-    "ironsource_app_key"                    : "85460dcd",
+    "ironsource_app_key"                    : "1d7c67fcd",
     "ironsource_banner_placement_name"      : "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "ironsource_interstitial_splash"        : "DefaultInterstitial",
@@ -90,9 +90,9 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
-    "native_ad_interval"       : 20,
-    "native_ad_index"          : 4,
+    "interstitial_ad_interval" : 2,
+    "native_ad_interval"       : 6,
+    "native_ad_index"          : 6,
     
     "date_time": "2023-09-22 00:08:03",
     "test_mode": 0
