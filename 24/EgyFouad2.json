@@ -31,7 +31,7 @@
     "ad_status"      : "on",
     
     "ad_type"        : "applovin",
-    "ad_type_splash" : "applovin",
+    "ad_type_splash" : "max",
     
     "backup_ads"     : "ironsource",
     
