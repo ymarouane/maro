@@ -6,7 +6,7 @@
 
   "PANEL_URL_REDIRECTION"    : "https://zonekapp.com/AndroidStudio/MarouanTV/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "REDIRECTION_COUNTRIES"    : "tr,eg,us,gb,in,be,fr,fi,ie,de,il,it,nl,qa,se,ch",
+  "REDIRECTION_COUNTRIES"    : "tr,eg,us,es,gb,in,be,fr,fi,ie,de,il,it,nl,qa,se,ch",
   
   "PANEL_URL_TARGET"         : "https://zonekapp.com/AndroidStudio/MarouanTV/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
