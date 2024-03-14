@@ -73,7 +73,7 @@
     "applovin_interstitial_zone_splash": 0,
     
     
-    "ironsource_app_key"                    : "85460dcd",
+    "ironsource_app_key"                    : "xx",
     "ironsource_banner_placement_name"      : "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "ironsource_interstitial_splash"        : "DefaultInterstitial",
@@ -114,7 +114,7 @@
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
     
-    "external_player"   : "true",
+    "external_player"   : "false",
     "external_player_id": "com.MAROUANE.player",
     
     
