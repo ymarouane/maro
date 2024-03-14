@@ -6,11 +6,11 @@
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "REDIRECTION_COUNTRIES"    : "us,uk",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa",
   
   "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "TARGET_COUNTRIES"         : "ES,DZ",
+  "TARGET_COUNTRIES"         : "",
 
 
   "status": "ok",
@@ -28,12 +28,12 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "on",
+    "ad_status"      : "off",
     
     "ad_type"        : "fan",
     "ad_type_splash" : "fan",
     
-    "backup_ads"     : "ironsource",
+    "backup_ads"     : "fan",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
@@ -49,10 +49,10 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-    "fan_interstitial_unit_id"       : "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-    "fan_interstitial_splash"        : "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-    "fan_native_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    "fan_banner_unit_id"             : "xx",
+    "fan_interstitial_unit_id"       : "xx",
+    "fan_interstitial_splash"        : "xx",
+    "fan_native_unit_id"             : "xx",
     
     "startapp_app_id"                : 123456789,
     
