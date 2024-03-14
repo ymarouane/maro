@@ -92,8 +92,8 @@
     
     "onesignal_app_id": "7ffc5525-dea9-4cfe-b9da-4fb5d985f680",
     
-    "external_player"   : "false",
-    "external_player_id": "com.MAROUANE.player",
+    "external_player"   : "true",
+    "external_player_id": "com.f.player",
     
     
     "onesignal_rest_api_key": 0,
