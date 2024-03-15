@@ -28,9 +28,9 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "fan",
+    "ad_type"        : "applovin",
     "ad_type_splash" : "fan",
     
     "backup_ads"     : "fan",
@@ -61,11 +61,11 @@
     "unity_interstitial_placement_id"  : 0,
     "unity_interstitial_splash"        : 0,
     
-    "applovin_banner_ad_unit_id"       : 0,
-    "applovin_interstitial_ad_unit_id" : 0,
-    "applovin_interstitial_splash"     : 0,
-    "applovin_native_ad_manual_unit_id": 0,
-    "applovin_app_open_ad_unit_id"     : 0,
+    "applovin_banner_ad_unit_id"       : "f96c9cfdfe69b393",
+    "applovin_interstitial_ad_unit_id" : "675579a9c8dacfe1",
+    "applovin_interstitial_splash"     : "675579a9c8dacfe1",
+    "applovin_native_ad_manual_unit_id": "516fdf915948e2a4",
+    "applovin_app_open_ad_unit_id"     : "93f9d239204a6c00",
     
     "applovin_banner_mrec_zone_id"     : 0,
     "applovin_banner_zone_id"          : 0,
