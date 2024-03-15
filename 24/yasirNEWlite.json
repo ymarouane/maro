@@ -23,8 +23,8 @@
       
     "id": 1,
     "ad_status": "on",
-    "ad_type": "ironsource",
-    "backup_ads": "none",
+    "ad_type": "admob",
+    "backup_ads": "ironsource",
 
     "interstitial_ad_interval": 2,
     "native_ad_interval": 3,
@@ -39,12 +39,12 @@
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
 	  
-    "admob_publisher_id": "pub-xx",
-    "admob_app_id": "ca-app-pub-xx~2140098300610716",
-    "admob_banner_unit_id": "ca-app-pub-xx/6165629075",
-    "admob_interstitial_unit_id": "ca-app-pub-xx/3264983623",
-    "admob_native_unit_id": "ca-app-pub-xx/3284314869",
-    "admob_app_open_ad_unit_id": "ca-app-pub-xx/9638820288",
+    "admob_publisher_id": "pub-3328664880109699",
+    "admob_app_id": "ca-app-pub-3328664880109699~3197620733",
+    "admob_banner_unit_id": "ca-app-pub-3328664880109699/9892705800",
+    "admob_interstitial_unit_id": "ca-app-pub-3328664880109699/5279260107",
+    "admob_native_unit_id": "ca-app-pub-3328664880109699/9904523521",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3328664880109699/8185081893",
 
    
     "ad_manager_banner_unit_id": "\/6499\/example\/banner",
