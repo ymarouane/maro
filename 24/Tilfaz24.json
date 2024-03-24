@@ -1,7 +1,7 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes",
     
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/thestream24/yassirtv",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
@@ -18,7 +18,7 @@
   "updateApp": {
       
     "status"      : "false",
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.yassine"
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yassine.official"
     
   },
 
@@ -114,8 +114,8 @@
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
     
-    "external_player"   : "false",
-    "external_player_id": "com.MAROUANE.player",
+    "external_player"   : "true",
+    "external_player_id": "com.f.player",
     
     
     "onesignal_rest_api_key": 0,
