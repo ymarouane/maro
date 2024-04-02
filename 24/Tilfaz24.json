@@ -28,10 +28,10 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
-    "ad_type_splash" : "xx",
+    "ad_type"        : "xx",
+    "ad_type_splash" : "fan",
     
     "backup_ads"     : "xx",
     
@@ -52,7 +52,7 @@
     "fan_banner_unit_id"             : "xx",
     "fan_interstitial_unit_id"       : "xx",
     "fan_interstitial_splash"        : "xx",
-    "fan_native_unit_id"             : "xx",
+    "fan_native_unit_id"             : "2517031005134816_2517032195134697",
     
     "startapp_app_id"                : 123456789,
     
