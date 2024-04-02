@@ -6,7 +6,7 @@
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id",
   
   "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
