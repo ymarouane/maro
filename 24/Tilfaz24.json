@@ -90,16 +90,16 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
-    "native_ad_interval"       : 20,
-    "native_ad_index"          : 4,
+    "interstitial_ad_interval" : 2,
+    "native_ad_interval"       : 6,
+    "native_ad_index"          : 6,
     
     "date_time": "2023-09-22 00:08:03",
     "test_mode": 0
   },
   
   "promote":{
-      "showDescription" : "false",
+      "showDescription" : "true",
       "status"  :"false",
       "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
       "url"     : "https://github.com/saidmotya"
