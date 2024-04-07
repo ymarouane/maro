@@ -28,20 +28,20 @@
     "readMe" :"admob - fan - google_ad_manager - startapp -  unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "on",
+    "ad_status"      : "off",
     
-    "ad_type"        : "fan",
-    "ad_type_splash" : "fan",
+    "ad_type"        : "xx",
+    "ad_type_splash" : "xx",
     
     "backup_ads"     : "xx",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id"     : "ca-app-pub-3940256099942544/1033173712",
-    "admob_interstitial_splash"      : "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id"           : "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-3940256099942544/3419835294",
+    "admob_banner_unit_id"           : "ca-app-pub-xx/6300978111",
+    "admob_interstitial_unit_id"     : "ca-app-pub-xx/1033173712",
+    "admob_interstitial_splash"      : "ca-app-pub-xx/1033173712",
+    "admob_native_unit_id"           : "ca-app-pub-xx/2247696110",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-xx/3419835294",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
@@ -49,9 +49,9 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "2517031005134816_2517032028468047",
+    "fan_banner_unit_id"             : "xx2517031005134816_2517032028468047",
     "fan_interstitial_unit_id"       : "xx",
-    "fan_interstitial_splash"        : "2517031005134816_2517316358439614",
+    "fan_interstitial_splash"        : "xx2517031005134816_2517316358439614",
     "fan_native_unit_id"             : "XX",
     
     "startapp_app_id"                : 123456789,
@@ -115,7 +115,7 @@
     "onesignal_app_id": "7ffc5525-dea9-4cfe-b9da-4fb5d985f680",
     
     "external_player"   : "true",
-    "external_player_id": "com.f.player",
+    "external_player_id": "com.egy.player",
     
     
     "onesignal_rest_api_key": 0,
