@@ -18,7 +18,7 @@
   "updateApp": {
       
     "status"      : "false",
-    "redirect_url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.egybestinc.app"
     
   },
 
@@ -31,9 +31,9 @@
     "ad_status"      : "on",
     
     "ad_type"        : "applovin",
-    "ad_type_splash" : "max",
+    "ad_type_splash" : "none",
     
-    "backup_ads"     : "ironsource",
+    "backup_ads"     : "none",
     
     "admob_publisher_id"             : "pub-3940256099942544",
     "admob_app_id"                   : 0,
@@ -99,7 +99,7 @@
   },
   
   "promote":{
-      "showDescription" : "false",
+      "showDescription" : "true",
       "status"  :"false",
       "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
       "url"     : "https://github.com/saidmotya"
@@ -114,8 +114,8 @@
     
     "onesignal_app_id": "25333976-19f7-4e5b-a33b-d8ac1fd6776f",
     
-    "external_player"   : "false",
-    "external_player_id": "com.MAROUANE.player",
+    "external_player"   : "true",
+    "external_player_id": "com.egy.player",
     
     
     "onesignal_rest_api_key": 0,
