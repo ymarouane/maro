@@ -99,7 +99,7 @@
   },
   
   "promote":{
-      "showDescription" : "false",
+      "showDescription" : "true",
       "status"  :"true",
       "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
       "url"     : "https://github.com/saidmotya"
@@ -114,8 +114,8 @@
     
     "onesignal_app_id"  : "e9d8b9a4-8f5d-4849-8051-84fafc1d70c7",
     
-    "external_player"   : "false",
-    "external_player_id": "com.f.player",
+    "external_player"   : "true",
+    "external_player_id": "com.MAROUANE.player",
     
     
     "onesignal_rest_api_key": "0",
