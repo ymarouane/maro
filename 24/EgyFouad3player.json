@@ -4,7 +4,7 @@
   "PANEL_URL"                : "https://yassirtv.com/thestream/movieapp",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "PANEL_URL_REDIRECTION"    : "https://yassirtv.com/thestream/egybestkhawya/Panel",
+  "PANEL_URL_REDIRECTION"    : "https://yassirtv.com/thestream/movieapp",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   "REDIRECTION_COUNTRIES"    : "tr,eg,us,es,gb,in,be,fr,fi,ie,de,il,it,nl,qa,se,ch",
   
