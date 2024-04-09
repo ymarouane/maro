@@ -1,5 +1,5 @@
 {
-  "countriesInfo" : "https://www.iban.com/country-codes",
+  "countriesInfo" : "https://www.iban.com/country-codes/GBWAPP Inc.",
     
   "PANEL_URL"                : "https://marouaneai.com/thestream24/Yanistv24",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
@@ -101,8 +101,8 @@
   "promote":{
       "showDescription" : "true",
       "status"  :"true",
-      "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
-      "url"     : "https://github.com/saidmotya"
+      "preview" :"https://raw.githubusercontent.com/yqvclhjfife/MRTV/main/yacineads.png",
+      "url"     : "https://play.google.com/store/apps/details?id=com.yacineapp.YACINETV"
      
   },
   
@@ -114,7 +114,7 @@
     
     "onesignal_app_id"  : "e9d8b9a4-8f5d-4849-8051-84fafc1d70c7",
     
-    "external_player"   : "true",
+    "external_player"   : "false",
     "external_player_id": "com.MAROUANE.player",
     
     
