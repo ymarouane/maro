@@ -114,7 +114,7 @@
     
     "onesignal_app_id": "25333976-19f7-4e5b-a33b-d8ac1fd6776f",
     
-    "external_player"   : "false",
+    "external_player"   : "true",
     "external_player_id": "com.egy.player",
     
     
