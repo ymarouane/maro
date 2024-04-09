@@ -100,7 +100,7 @@
   
   "promote":{
       "showDescription" : "false",
-      "status"  :"false",
+      "status"  :"true",
       "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
       "url"     : "https://github.com/saidmotya"
      
