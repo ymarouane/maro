@@ -28,20 +28,21 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "admob",
+    "ad_status"      : "on",
     
-    "ad_type"        : "xx",
+    "ad_type"        : "admob",
     "ad_type_splash" : "xx",
     
-    "backup_ads"     : "ironsourcefan",
+    "backup_ads"     : "xx",
     
-    "admob_publisher_id"             : "pub-xx",
+    "admob_publisher_id"             : "pub-7476903604440240",
     "admob_app_id"                   : "0",
     "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/4407821084",
     "admob_interstitial_unit_id"     : "ca-app-pub-7476903604440240/3318617615",
     "admob_interstitial_splash"      : "ca-app-pub-xx",
     "admob_native_unit_id"           : "ca-app-pub-7476903604440240/9712118657",
     "admob_app_open_ad_unit_id"      : "ca-app-pub-7476903604440240/2146304031",
+
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
@@ -49,12 +50,12 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-    "fan_interstitial_unit_id"       : "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-    "fan_interstitial_splash"        : "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-    "fan_native_unit_id"             : "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    "fan_banner_unit_id"             : "xx",
+    "fan_interstitial_unit_id"       : "xx",
+    "fan_interstitial_splash"        : "xx",
+    "fan_native_unit_id"             : "xx",
     
-    "startapp_app_id"                : 123456789,
+    "startapp_app_id"                : xx,
     
     "unity_game_id"                    : "0",
     "unity_banner_placement_id"        : "0",
@@ -62,8 +63,8 @@
     "unity_interstitial_splash"        : "0",
     
     "applovin_banner_ad_unit_id"       : "0",
-    "applovin_interstitial_ad_unit_id" : "98f6a586ed642919",
-    "applovin_interstitial_splash"     : "98f6a586ed642919",
+    "applovin_interstitial_ad_unit_id" : "xx",
+    "applovin_interstitial_splash"     : "xx",
     "applovin_native_ad_manual_unit_id": "0",
     "applovin_app_open_ad_unit_id"     : "0",
     
@@ -73,7 +74,7 @@
     "applovin_interstitial_zone_splash": "0",
     
     
-    "ironsource_app_key"                    : "85460dcd",
+    "ironsource_app_key"                    : "xx",
     "ironsource_banner_placement_name"      : "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
     "ironsource_interstitial_splash"        : "DefaultInterstitial",
@@ -115,7 +116,7 @@
     "onesignal_app_id"  : "e9d8b9a4-8f5d-4849-8051-84fafc1d70c7",
     
     "external_player"   : "false",
-    "external_player_id": "com.MAROUANE.player",
+    "external_player_id": "com.egy.player",
     
     
     "onesignal_rest_api_key": "0",
