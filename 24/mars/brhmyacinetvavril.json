@@ -29,10 +29,8 @@
       
     "id": 1,
     "ad_status"      : "on",
-    
     "ad_type"        : "admob",
     "ad_type_splash" : "xx",
-    
     "backup_ads"     : "xx",
     
     "admob_publisher_id"             : "pub-7476903604440240",
