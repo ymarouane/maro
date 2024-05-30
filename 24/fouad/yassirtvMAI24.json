@@ -1,14 +1,14 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes",
     
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/thestream24/yassirtv",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   "REDIRECTION_COUNTRIES"    : "us,gb,in,qa,id,es",
   
-  "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/yassirtv",
+  "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   "TARGET_COUNTRIES"         : "",
 
@@ -28,20 +28,20 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "XXXXadmob",
+    "ad_type"        : "admob",
     "ad_type_splash" : "XXXXXfan",
     
     "backup_ads"     : "XXXXapplovin",
     
     "admob_publisher_id"             : "pub-3328664880109699",
     "admob_app_id"                   : "0",
-    "admob_banner_unit_id"           : "ca-app-pub-xx/9803529670",
-    "admob_interstitial_unit_id"     : "ca-app-pub-xx/4755464542",
-    "admob_interstitial_splash"      : "ca-app-pub-xx",
-    "admob_native_unit_id"           : "ca-app-pub-xx/8490448008",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-xx/5864284662",
+    "admob_banner_unit_id"           : "ca-app-pub-3328664880109699/3821343166",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3328664880109699/1969652555",
+    "admob_interstitial_splash"      : "ca-app-pub-3328664880109699/xx",
+    "admob_native_unit_id"           : "ca-app-pub-3328664880109699/8663687870",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3328664880109699/1195179822",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
@@ -99,7 +99,7 @@
   },
   
   "promote":{
-      "showDescription" : "false",
+      "showDescription" : "true",
       "status"  :"false",
       "preview" :"https://raw.githubusercontent.com/yqvclhjfife/MRTV/main/yacineads2.png",
       "url"     : "https://play.google.com/store/apps/details?id=app.yacinetv.yassine"
@@ -114,7 +114,7 @@
     
     "onesignal_app_id": "XXXXXXXXXXXXXXXXXXXXX7ffc5525-dea9-4cfe-b9da-4fb5d985f680",
     
-    "external_player"   : "false",
+    "external_player"   : "true",
     "external_player_id": "com.egy.player",
     
     
