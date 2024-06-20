@@ -31,7 +31,7 @@
     "ad_status"      : "on",
     
     "ad_type"        : "admob",
-    "ad_type_splash" : "applovin",
+    "ad_type_splash" : "XXapplovin",
     
     "backup_ads"     : "fan",
     
@@ -49,7 +49,7 @@
     "ad_manager_native_unit_id"      : "/6499/example/native",
     "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
     
-    "fan_banner_unit_id"             : "xx",
+    "fan_banner_unit_id"             : "xxx",
     "fan_interstitial_unit_id"       : "xx",
     "fan_interstitial_splash"        : "xx",
     "fan_native_unit_id"             : "xx",
