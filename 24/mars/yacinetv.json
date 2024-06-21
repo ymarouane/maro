@@ -30,8 +30,8 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "XXapplovin",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "XXadmob",
     
     "backup_ads"     : "fan",
     
