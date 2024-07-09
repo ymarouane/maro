@@ -17,7 +17,7 @@
   
   "updateApp": {
       
-    "status"      : "true",
+    "status"      : "false",
     "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
     
   },
