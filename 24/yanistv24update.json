@@ -14,17 +14,17 @@
   "status": "ok",
   "app": {
       
-    "status": "00//zero wahd bach dir update",
+    "status": "0",
     "package_name": "",
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.plus"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.codat.yacinetv"
   },
   "ads": {
       
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status": "on",
-    "ad_type": "admob",
+    "ad_status": "off",
+    "ad_type": "xx",
     "backup_ads": "applovin_discovery",
 
     "interstitial_ad_interval": 2,
