@@ -1,7 +1,7 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.codat.yacinetv",
     
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/yacinetvstream",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
@@ -28,20 +28,20 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status"      : "off",
+    "ad_status"      : "on",
     
-    "ad_type"        : "xxapplovin",
+    "ad_type"        : "admob",
     "ad_type_splash" : "xx",
     
     "backup_ads"     : "xx",
     
-    "admob_publisher_id"             : "pub-xx",
+    "admob_publisher_id"             : "pub-6821840898907717",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/xx",
-    "admob_interstitial_unit_id"     : "ca-app-pub-7476903604440240/xx",
+    "admob_banner_unit_id"           : "ca-app-pub-6821840898907717/8465840074",
+    "admob_interstitial_unit_id"     : "ca-app-pub-6821840898907717/7152758405",
     "admob_interstitial_splash"      : "ca-app-pub-7476903604440240/xx",
-    "admob_native_unit_id"           : "ca-app-pub-7476903604440240/xx",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-7476903604440240/xx",
+    "admob_native_unit_id"           : "ca-app-pub-6821840898907717/5839676736",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-6821840898907717/2283036104",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
