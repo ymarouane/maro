@@ -1,5 +1,5 @@
 {
-  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=app.yacinetv.yassinetv",
+  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.codat.yacinetv",
     
   "PANEL_URL"                : "https://marouaneai.com/yacinetvstream",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
@@ -18,7 +18,7 @@
   "updateApp": {
       
     "status"      : "false",
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.yassinetv"
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.codat.yacinetv"
     
   },
 
@@ -30,18 +30,18 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
+    "ad_type"        : "admob",
     "ad_type_splash" : "xx",
     
     "backup_ads"     : "xx",
     
-    "admob_publisher_id"             : "pub-7476903604440210",
+    "admob_publisher_id"             : "pub-6821840898907717",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/xx",
-    "admob_interstitial_unit_id"     : "ca-app-pub-7476903604440240/xx",
+    "admob_banner_unit_id"           : "ca-app-pub-6821840898907717/8465840074",
+    "admob_interstitial_unit_id"     : "ca-app-pub-6821840898907717/7152758405",
     "admob_interstitial_splash"      : "ca-app-pub-7476903604440240/xx",
-    "admob_native_unit_id"           : "ca-app-pub-7476903604440240/xx",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-7476903604440240/xx",
+    "admob_native_unit_id"           : "ca-app-pub-6821840898907717/5839676736",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-6821840898907717/2283036104",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
@@ -112,7 +112,7 @@
     "api_key": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
     "package_name": "com.app.thestream",
     
-    "onesignal_app_id": "5c5143aa-cb52-4e7f-8a76-c313aa7d604b",
+    "onesignal_app_id": "",
     
     "external_player"   : "false",
     "external_player_id": "com.MAROUANE.player",
@@ -122,7 +122,7 @@
     "providers": "onesignal",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https:\/\/yacinetv.link",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=YTV+LINK",
     "youtube_api_key": 0,
     "privacy_policy": "https:\/\/sites.google.com\/view\/egyplayer\/home\/"
     
