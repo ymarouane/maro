@@ -1,0 +1,131 @@
+{
+  "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=app.yacinetv.ytvpro",
+    
+  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+
+  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id",
+  
+  "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "TARGET_COUNTRIES"         : "",
+
+
+  "status": "ok",
+  
+  "updateApp": {
+      
+    "status"      : "false",
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.ytvpro"
+    
+  },
+
+  
+  "ads": {
+      
+    "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
+      
+    "id": 1,
+    "ad_status"      : "on",
+    
+    "ad_type"        : "xx",
+    "ad_type_splash" : "xx",
+    
+    "backup_ads"     : "xx",
+    
+    "admob_publisher_id"             : "pub-7476903604440240",
+    "admob_app_id"                   : 0,
+    "admob_banner_unit_id"           : "ca-app-pub-xx/1283143187",
+    "admob_interstitial_unit_id"     : "ca-app-pub-xx/5001798860",
+    "admob_interstitial_splash"      : "ca-app-pub-xxx/xx",
+    "admob_native_unit_id"           : "ca-app-pub-xx/4403001246",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-xx/3089919570",
+   
+    "ad_manager_banner_unit_id"      : "/6499/example/banner",
+    "ad_manager_interstitial_unit_id": "/6499example/interstitial",
+    "ad_manager_interstitial_splash" : "/6499/example/interstitial",
+    "ad_manager_native_unit_id"      : "/6499/example/native",
+    "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
+    
+    "fan_banner_unit_id"             : "xxx",
+    "fan_interstitial_unit_id"       : "xx",
+    "fan_interstitial_splash"        : "xx",
+    "fan_native_unit_id"             : "xx",
+    
+    "startapp_app_id"                : 123456789,
+    
+    "unity_game_id"                    : 0,
+    "unity_banner_placement_id"        : 0,
+    "unity_interstitial_placement_id"  : 0,
+    "unity_interstitial_splash"        : 0,
+    
+    "applovin_banner_ad_unit_id"       : "xx",
+    "applovin_interstitial_ad_unit_id" : "xx",
+    "applovin_interstitial_splash"     : "xx",
+    "applovin_native_ad_manual_unit_id": "xx",
+    "applovin_app_open_ad_unit_id"     : "xx",
+    
+    "applovin_banner_mrec_zone_id"     : 0,
+    "applovin_banner_zone_id"          : 0,
+    "applovin_interstitial_zone_id"    : 0,
+    "applovin_interstitial_zone_splash": 0,
+    
+    
+    "ironsource_app_key"                    : "xx",
+    "ironsource_banner_placement_name"      : "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    "ironsource_interstitial_splash"        : "DefaultInterstitial",
+    
+    "wortise_app_id"                : "test-app-id",
+    "wortise_banner_unit_id"        : "test-banner",
+    "wortise_interstitial_unit_id"  : "test-interstitial",
+    "wortise_interstitial_splash"   : "test-interstitial",
+    "wortise_native_unit_id"        : "test-native",
+    "wortise_app_open_unit_id"      : "test-app-open",
+    
+    "mopub_banner_ad_unit_id"       : 0,
+    "mopub_interstitial_ad_unit_id" : 0,
+    "mopub_interstitial_splash"     : 0,
+    
+    
+    "interstitial_ad_interval" : 2,
+    "native_ad_interval"       : 6,
+    "native_ad_index"          : 6,
+    
+    "date_time": "2023-09-22 00:08:03",
+    "test_mode": 0
+  },
+  
+  "promote":{
+      "showDescription" : "false",
+      "status"  :"false",
+      "preview" :"https://zonekapp.com/AndroidStudio/MarouanTV/promote.png",
+      "url"     : "https://github.com/saidmotya"
+     
+  },
+  
+  "settings": {
+    "id": 1,
+    "app_fcm_key": 0,
+    "api_key": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+    "package_name": "com.app.thestream",
+    
+    "onesignal_app_id": "5c5143aa-cb52-4e7f-8a76-c313aa7d604b",
+    
+    "external_player"   : "false",
+    "external_player_id": "com.MAROUANE.player",
+    
+    
+    "onesignal_rest_api_key": 0,
+    "providers": "onesignal",
+    "protocol_type": "http",
+    "fcm_notification_topic": "the_stream_topic",
+    "more_apps_url": "https:\/\/yacinetv.link",
+    "youtube_api_key": 0,
+    "privacy_policy": "https:\/\/sites.google.com\/view\/egyplayer\/home\/"
+    
+
+  }
+}
