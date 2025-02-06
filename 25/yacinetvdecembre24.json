@@ -17,8 +17,8 @@
   
   "updateApp": {
       
-    "status"      : "false",
-    "redirect_url": "https://play.google.com/store/apps/details?id=app.yacinetv.yassinetv"
+    "status"      : "true",
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.new"
     
   },
 
@@ -30,7 +30,7 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
+    "ad_type"        : "xx",
     "ad_type_splash" : "xx",
     
     "backup_ads"     : "xx",
