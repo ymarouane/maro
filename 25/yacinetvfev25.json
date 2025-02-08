@@ -1,12 +1,12 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=app.yacinetv.ytvpro",
     
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/yacinetvstream",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,eg,uk",
   
   "PANEL_URL_TARGET"         : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
@@ -30,18 +30,18 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "xx",
+    "ad_type"        : "admob",
     "ad_type_splash" : "xx",
     
     "backup_ads"     : "xx",
     
     "admob_publisher_id"             : "pub-7476903604440240",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-xx/1283143187",
-    "admob_interstitial_unit_id"     : "ca-app-pub-xx/5001798860",
+    "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/xx",
+    "admob_interstitial_unit_id"     : "ca-app-pub-7476903604440240/1112622335",
     "admob_interstitial_splash"      : "ca-app-pub-xxx/xx",
-    "admob_native_unit_id"           : "ca-app-pub-xx/4403001246",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-xx/3089919570",
+    "admob_native_unit_id"           : "ca-app-pub-7476903604440240/9331083191",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-7476903604440240/6704919859",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
