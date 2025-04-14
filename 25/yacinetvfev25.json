@@ -31,15 +31,15 @@
     "ad_status"      : "on",
     
     "ad_type"        : "applovin",
-    "ad_type_splash" : "xx",
+    "ad_type_splash" : "admob",
     
-    "backup_ads"     : "xx",
+    "backup_ads"     : "admob",
     
     "admob_publisher_id"             : "pub-7476903604440240",
     "admob_app_id"                   : 0,
-    "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/xx",
+    "admob_banner_unit_id"           : "ca-app-pub-7476903604440240/7040302056",
     "admob_interstitial_unit_id"     : "ca-app-pub-7476903604440240/1112622335xx",
-    "admob_interstitial_splash"      : "ca-app-pub-xxx/xx",
+    "admob_interstitial_splash"      : "ca-app-pub-7476903604440240/5639590475",
     "admob_native_unit_id"           : "ca-app-pub-7476903604440240/9331083191xx",
     "admob_app_open_ad_unit_id"      : "ca-app-pub-7476903604440240/6704919859xx",
    
