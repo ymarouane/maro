@@ -30,10 +30,10 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "admob",
-    "ad_type_splash" : "applovin",
+    "ad_type"        : "applovin",
+    "ad_type_splash" : "",
     
-    "backup_ads"     : "admob",
+    "backup_ads"     : "",
     
     "admob_publisher_id"             : "pub-7476903604440240",
     "admob_app_id"                   : 0,
