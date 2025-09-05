@@ -22,18 +22,18 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status" : "off",
-    "ad_type"   : "admob",
+    "ad_status" : "on",
+    "ad_type"   : "applovin",
     "backup_ads": "none",
 
-    "interstitial_ad_interval": 2,
+    "interstitial_ad_interval": 1,
     "native_ad_interval"      : 3,
     "native_ad_index"         : 3,
 
-    "applovin_banner_ad_unit_id": "xx",
-    "applovin_interstitial_ad_unit_id": "xx",
-    "applovin_native_ad_manual_unit_id": "xx",
-    "applovin_app_open_ad_unit_id": "xx",
+    "applovin_banner_ad_unit_id": "281d17cce4ab17d0",
+    "applovin_interstitial_ad_unit_id": "48b01f29678e438d",
+    "applovin_native_ad_manual_unit_id": "62adb38a68668d52",
+    "applovin_app_open_ad_unit_id": "3169863c5358325d",
 
     "ironsource_app_key": "1d4e18f45",
     "ironsource_banner_placement_name": "DefaultBanner",
