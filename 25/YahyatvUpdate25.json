@@ -3,7 +3,7 @@
   
   "applicationId": "com.codat.yacinetv",
   
-  "PANEL_URL"   : "https://marouaneai.com/thestream24/Yanistv24",
+  "PANEL_URL"   : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
@@ -83,13 +83,13 @@
   
   "settings": {
   
-    "onesignal_app_id"  : "5c5143aa-cb52-4e7f-8a76-c313aa7d604b",
+    "onesignal_app_id"  : "onesignalid",
     
     "external_player"   : false,
     "external_player_id": "com.MAROUANE.player",
     
-    "more_apps_url": "https://play.google.com/store/apps/developer?id=BouhSoft",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=YTV+LINK",
 
-   "privacy_policy": "https://sites.google.com/view/egyplayer"
+   "privacy_policy": "https://sites.google.com/view/yahyatv/home"
   }
 }
