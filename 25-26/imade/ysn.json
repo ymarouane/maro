@@ -23,7 +23,7 @@
       
     "id": 1,
     "ad_status" : "on",
-    "ad_type"   : "applovin",
+    "ad_type"   : "admob",
     "backup_ads": "none",
 
     "interstitial_ad_interval": 2,
@@ -39,12 +39,12 @@
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
 	  
-    "admob_publisher_id": "pub-xx",
-    "admob_app_id": "ca-app-pub-xx~6821840898907717",
-    "admob_banner_unit_id": "ca-app-pub-xx/3489102724",
-    "admob_interstitial_unit_id": "ca-app-pub-xx/7084958141",
-    "admob_native_unit_id": "ca-app-pub-xx/1540987422",
-    "admob_app_open_ad_unit_id": "ca-app-pub-xx/2474795146",
+    "admob_publisher_id": "pub-7476903604440240",
+    "admob_app_id": "ca-app-pub-7476903604440240~4480300201",
+    "admob_banner_unit_id": "ca-app-pub-7476903604440240/1436379018",
+    "admob_interstitial_unit_id": "ca-app-pub-7476903604440240/5877368660",
+    "admob_native_unit_id": "ca-app-pub-7476903604440240/7281949673",
+    "admob_app_open_ad_unit_id": "ca-app-pub-7476903604440240/4764415780",
 
    
     "ad_manager_banner_unit_id": "/6499/example/banner",
