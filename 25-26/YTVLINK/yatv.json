@@ -25,7 +25,7 @@
       
     "id": 1,
     "ad_status" : "on",
-    "ad_type"   : "applovin",
+    "ad_type"   : "admob",
     "backup_ads": "none",
 
     "interstitial_ad_interval": 1,
