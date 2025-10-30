@@ -3,15 +3,15 @@
   
   "applicationId"  : "app.yanis.tv.new",
   
-  "storeInstaller" : false,
+  "storeInstaller" : true,
   
-  "PANEL_URL"   : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL": "https://marouaneai.com/thestream24/Yanistv24",
   "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
   "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "BLACK_LIST" : "gb,ie,us,in,uk,qa,il",
+  "BLACK_LIST" : "gb,ie,us,in,uk,qa,il,eg",
 
 
   "app": {
@@ -24,7 +24,7 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status" : "off",
+    "ad_status" : "on",
     "ad_type"   : "admob",
     "backup_ads": "none",
 
@@ -40,13 +40,13 @@
     "ironsource_app_key": "1d4e18f45",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
-	  
-    "admob_publisher_id"        : "pub-3940256099942544",
-    "admob_app_id"              : "ca-app-pub-3940256099942544~3347511713",
-    "admob_banner_unit_id"      : "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id"      : "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id" : "ca-app-pub-3940256099942544/9257395921",
+
+    "admob_publisher_id": "pub-6821840898907717",
+    "admob_app_id": "ca-app-pub-6821840898907717~6821840898907717",
+    "admob_banner_unit_id": "ca-app-pub-6821840898907717/3489102724",
+    "admob_interstitial_unit_id": "ca-app-pub-6821840898907717/7084958141",
+    "admob_native_unit_id": "ca-app-pub-6821840898907717/1540987422",
+    "admob_app_open_ad_unit_id": "ca-app-pub-6821840898907717/2474795146",
 
    
     "ad_manager_banner_unit_id": "\/6499\/example\/banner",
