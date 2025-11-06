@@ -85,12 +85,12 @@
   
   "settings": {
   
-    "onesignal_app_id"  : "",
+    "onesignal_app_id"  : "edcc8899-6953-4a10-b4f1-0635da74bce0",
     
     "external_player"   : false,
     "external_player_id": "com.MAROUANE.player",
     
-    "more_apps_url" : "https://play.google.com/store/apps/developer?id=YTVLINK",
+    "more_apps_url" : "https://play.google.com/store/apps/developer?id=YTV+LINK",
     
     "privacy_policy": "https://sites.google.com/view/egyplayer"
 
