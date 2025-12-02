@@ -24,7 +24,7 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status" : "off",
+    "ad_status" : "on",
     "ad_type"   : "admob",
     "backup_ads": "none",
 
@@ -41,12 +41,12 @@
     "ironsource_banner_placement_name"      : "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
 	  
-    "admob_publisher_id"        : "pub-5328735289575157",
-    "admob_app_id"              : "ca-app-pub-xx~3347511713",
-    "admob_banner_unit_id"      : "ca-app-pub-xx/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-xx/2579820083",
-    "admob_native_unit_id"      : "ca-app-pub-xx/7456193509",
-    "admob_app_open_ad_unit_id" : "ca-app-pub-xx/1266738417",
+    "admob_publisher_id"        : "pub-4268551140171589",
+    "admob_app_id"              : "ca-app-pub-4268551140171589~3347511713",
+    "admob_banner_unit_id"      : "ca-app-pub-4268551140171589/8082071626",
+    "admob_interstitial_unit_id": "ca-app-pub-4268551140171589/8491660383",
+    "admob_native_unit_id"      : "ca-app-pub-4268551140171589/7178578713",
+    "admob_app_open_ad_unit_id" : "ca-app-pub-4268551140171589/1738549776",
 
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
