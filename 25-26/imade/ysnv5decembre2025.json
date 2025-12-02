@@ -85,7 +85,7 @@
   
   "settings": {
   
-    "onesignal_app_id"  : "",
+    "onesignal_app_id"  : "84ea99f3-2888-4f96-abd8-80656d7ed2d0",
     
     "external_player"   : false,
     "external_player_id": "com.MAROUANE.player",
