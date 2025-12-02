@@ -24,7 +24,7 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status" : "on",
+    "ad_status" : "off",
     "ad_type"   : "admob",
     "backup_ads": "none",
 
