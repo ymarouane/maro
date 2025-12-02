@@ -1,0 +1,99 @@
+{
+  "status"       : "ok",
+  
+  "applicationId"            : "app.yassine.official",
+
+  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+
+  "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
+  "REST_API_KEY_REDIRECTION" : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "REDIRECTION_COUNTRIES"    : "us,gb,in,es,qa,id,ae,uk",
+  
+  "PANEL_URL_TARGET"         : "https://marouaneai.com/yacinetvstream",
+  "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "TARGET_COUNTRIES"         : "",
+
+  "app": {
+    "status": false,
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yassine.official"
+  },
+  
+  "ads": {
+      
+    "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
+      
+    "id": 1,
+    "ad_status" : "off",
+    "ad_type"   : "admob",
+    "backup_ads": "none",
+
+    "interstitial_ad_interval": 2,
+    "native_ad_interval"      : 6,
+    "native_ad_index"         : 6,
+
+    "applovin_banner_ad_unit_id"       : "xx",
+    "applovin_interstitial_ad_unit_id" : "xx",
+    "applovin_native_ad_manual_unit_id": "xx",
+    "applovin_app_open_ad_unit_id"     : "xx",
+
+    "ironsource_app_key"                    : "1d4e18f45",
+    "ironsource_banner_placement_name"      : "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+	  
+    "admob_publisher_id"        : "pub-5328735289575157",
+    "admob_app_id"              : "ca-app-pub-xx~3347511713",
+    "admob_banner_unit_id"      : "ca-app-pub-xx/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-xx/2579820083",
+    "admob_native_unit_id"      : "ca-app-pub-xx/7456193509",
+    "admob_app_open_ad_unit_id" : "ca-app-pub-xx/1266738417",
+
+   
+    "ad_manager_banner_unit_id"      : "/6499/example/banner",
+    "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+    "ad_manager_native_unit_id"      : "/6499/example/native",
+    "ad_manager_app_open_ad_unit_id" : "/6499/example/app-open",
+    
+    "fan_banner_unit_id"      : "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+    "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+    "fan_native_unit_id"      : "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    
+    "startapp_app_id": 123456789,
+    
+    "unity_game_id": 0,
+    "unity_banner_placement_id": 0,
+    "unity_interstitial_placement_id": 0,
+    
+    "applovin_banner_mrec_zone_id": "xx",
+    "applovin_banner_zone_id": "xx",
+    "applovin_interstitial_zone_id": "xx",
+    
+    
+    "wortise_app_id": "test-app-id",
+    "wortise_banner_unit_id": "test-banner",
+    "wortise_interstitial_unit_id": "test-interstitial",
+    "wortise_native_unit_id": "test-native",
+    "wortise_app_open_unit_id": "test-app-open",
+    
+    "mopub_banner_ad_unit_id": 0,
+    "mopub_interstitial_ad_unit_id": 0,
+    
+
+    "date_time": "2023-09-22 00:08:03",
+    "test_mode": 0
+  },
+  
+  "settings": {
+  
+    "onesignal_app_id"  : "",
+    
+    "external_player"   : false,
+    "external_player_id": "com.MAROUANE.player",
+    
+    "more_apps_url" : "https://play.google.com/store/apps/developer?id=TVMatch+Apps",
+    
+    "privacy_policy": "https://sites.google.com/view/egyplayer"
+
+
+  }
+}
