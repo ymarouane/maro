@@ -2,7 +2,7 @@
   "status"       : "ok",
   
   "applicationId"            : "com.yacinetv.marouaneai",
-  "storeInstaller"           : true,
+  "storeInstaller"           : false,
 
 
   "PANEL_URL"                : "https://marouaneai.com/yacinetvstream",
