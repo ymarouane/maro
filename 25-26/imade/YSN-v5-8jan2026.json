@@ -3,7 +3,7 @@
   
   "applicationId"            : "app.yassine.official",
 
-  "PANEL_URL"                : "https://marouaneai.com/thestream24/Panel",
+  "PANEL_URL"                : "https://marouaneai.com/yacinetvstream",
   "REST_API_KEY"             : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
   "PANEL_URL_REDIRECTION"    : "https://marouaneai.com/thestream24/Panel",
@@ -24,7 +24,7 @@
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
       
     "id": 1,
-    "ad_status" : "off",
+    "ad_status" : "on",
     "ad_type"   : "admob",
     "backup_ads": "none",
 
