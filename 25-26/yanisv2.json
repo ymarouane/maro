@@ -28,7 +28,7 @@
     "ad_type"   : "admob",
     "backup_ads": "none",
 
-    "interstitial_ad_interval": 1,
+    "interstitial_ad_interval": 5,
     "native_ad_interval"      : 9,
     "native_ad_index"         : 9,
 
@@ -45,8 +45,8 @@
     "admob_app_id": "ca-app-pub-6821840898907717~6821840898907717",
     "admob_banner_unit_id": "ca-app-pub-6821840898907717/3489102724",
     "admob_interstitial_unit_id": "ca-app-pub-6821840898907717/7084958141",
-    "admob_native_unit_id": "ca-app-pub-6821840898907717/1540987422",
-    "admob_app_open_ad_unit_id": "ca-app-pub-6821840898907717/2474795146",
+    "admob_native_unit_id": "ca-app-pub-6821840898907717/1540987422xx",
+    "admob_app_open_ad_unit_id": "ca-app-pub-6821840898907717/2474795146xx",
 
    
     "ad_manager_banner_unit_id": "\/6499\/example\/banner",
