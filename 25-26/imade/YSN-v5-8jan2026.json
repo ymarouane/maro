@@ -12,7 +12,7 @@
   
   "PANEL_URL_TARGET"         : "https://marouaneai.com/yacinetvstream",
   "REST_API_KEY_TARGET"      : "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
-  "TARGET_COUNTRIES"         : "",
+  "TARGET_COUNTRIES"         : "ng,fr,sn,et,dz,sd,ma,td,sa,cd,tn,cm,ne,ml,bf,it,ci,ss,iq,gh,mr,tg,de,gn,ca,tz,cf,gm,bi,ye,ke,be,ug,nl,om,jo,tr,ch,bj,cg,ao,bw,cv,km,dj,gq,er,sz,ga,gw,ls,lr,ly,mg,mw,mu,mz,na,rw,st,sc,sl,so,za,zm,zw",
 
   "app": {
     "status": false,
